@@ -1,1001 +1,1001 @@
 local,genero,data,salario
-"New York City, New York, United States",Female,*/*/*,$2622.47
-"New York City, New York, United States",Female,*/*/*,$1509.69
-"*, Porto, Portugal",Female,*/*/2008,$7233.37
-"*, Porto, Portugal",Female,*/*/2008,$5866.61
-"*, Viseu, Portugal",Male,*/*/*,$4357.15
-"*, Viseu, Portugal",Male,*/*/*,$1586.61
-"*, *, United States",Female,*/08/1989,$2775.31
-"*, *, United States",Female,*/08/1989,$2495.07
-"*, *, United States",Female,*/*/2002,$1041.43
-"*, *, United States",Female,*/*/2002,$5805.91
-"*, Ontario, Canada",Female,*/*/*,$1611.63
-"*, Ontario, Canada",Female,*/*/*,$4627.92
-"*, *, France",Female,*/08/2005,$4725.00
-"*, *, France",Female,*/08/2005,$4518.41
-"*, Porto, Portugal",Female,*/*/2005,$5283.42
-"*, Porto, Portugal",Female,*/*/2005,$7795.42
-"*, Porto, Portugal",*,*/08/1982,$6067.37
-"*, Porto, Portugal",*,*/08/1982,$6369.60
-"*, Languedoc-Roussillon, France",Female,*/08/2003,$1336.07
-"*, Languedoc-Roussillon, France",Female,*/08/2003,$3478.88
-"*, Manitoba, Canada",Female,*/*/*,$979.70
-"*, Manitoba, Canada",Female,*/*/*,$983.67
-"Stockholm, Stockholm, Sweden",Male,*/*/*,$6492.17
-"Stockholm, Stockholm, Sweden",Male,*/*/*,$4912.45
-"*, *, Portugal",Female,*/06/1985,$2854.38
-"*, *, Portugal",Female,*/06/1985,$2411.36
-"*, *, Portugal",Male,*/12/2003,$7386.55
-"*, *, Portugal",Male,*/12/2003,$4260.82
-"*, Stockholm, Sweden",Male,*/*/1995,$3372.24
-"*, Stockholm, Sweden",Male,*/*/1995,$6327.46
-"*, *, Canada",Male,*/05/2005,$7600.54
-"*, *, Canada",Male,*/05/2005,$5514.96
-"*, Île-de-France, France",*,*/06/1984,$5823.97
-"*, Île-de-France, France",*,*/06/1984,$3466.43
-"*, Ontario, Canada",Male,*/*/1992,$7565.57
-"*, Ontario, Canada",Male,*/*/1992,$6598.41
-"*, Coahuila De Zaragoza, Mexico",Male,*/*/*,$2280.82
-"*, Coahuila De Zaragoza, Mexico",Male,*/*/*,$2435.84
-"*, *, France",Female,*/04/2010,$2902.49
-"*, *, France",Female,*/04/2010,$2118.25
-"Hartford, Connecticut, United States",Male,*/*/*,$4901.14
-"Hartford, Connecticut, United States",Male,*/*/*,$4066.86
-"*, *, Portugal",Female,*/05/1988,$1404.57
-"*, *, Portugal",Female,*/05/1988,$4126.56
-"Falun, Dalarna, Sweden",Male,*/*/*,$2881.34
-"Falun, Dalarna, Sweden",Male,*/*/*,$1455.74
-"*, *, *",Female,*/03/2009,$3303.24
-"*, *, *",Female,*/03/2009,$2293.48
-"Fort Worth, Texas, United States",Male,*/*/*,$2891.78
-"Fort Worth, Texas, United States",Male,*/*/*,$6749.17
-"Göteborg, Västra Götaland, Sweden",Male,*/*/*,$5383.93
-"Göteborg, Västra Götaland, Sweden",Male,*/*/*,$3472.88
-"*, *, Canada",Female,*/11/1995,$7782.63
-"*, *, Canada",Female,*/11/1995,$7292.50
-"Louisville, Kentucky, United States",Female,*/*/*,$5663.67
-"Louisville, Kentucky, United States",Female,*/*/*,$3472.73
-"*, Rhône-Alpes, France",Female,*/*/*,$5368.06
-"*, Rhône-Alpes, France",Female,*/*/*,$5399.22
-"*, Lisboa, Portugal",Female,*/*/*,$2363.38
-"*, Lisboa, Portugal",Female,*/*/*,$5751.78
-"*, *, *",Female,28/02/1996,$1934.60
-"*, *, *",Female,28/02/1996,$2923.67
-"*, *, *",Female,*/05/1986,$7049.85
-"*, *, *",Female,*/05/1986,$7694.59
-"*, *, Portugal",Female,*/05/1983,$7453.73
-"*, *, Portugal",Female,*/05/1983,$7373.73
-"Marseille, Provence-Alpes-Côte d'Azur, France",Female,*/*/*,$2772.86
-"Marseille, Provence-Alpes-Côte d'Azur, France",Female,*/*/*,$1238.66
-"Bordeaux, Aquitaine, France",*,*/*/*,$1598.58
-"Bordeaux, Aquitaine, France",*,*/*/*,$7665.32
-"*, *, *",Male,*/12/1997,$4461.88
-"*, *, *",Male,*/12/1997,$938.01
-"Sundsvall, Västernorrland, Sweden",Male,*/*/2004,$4631.52
-"Sundsvall, Västernorrland, Sweden",Male,*/*/2004,$6963.88
-"*, *, Sweden",Female,*/11/1987,$3028.28
-"*, *, Sweden",Female,*/11/1987,$5057.22
-"Rungis, Île-de-France, France",Male,*/*/*,$3533.25
-"Rungis, Île-de-France, France",Male,*/*/*,$7733.10
-"Lindavista, Veracruz Llave, Mexico",Female,*/*/*,$7103.44
-"Lindavista, Veracruz Llave, Mexico",Female,*/*/*,$6888.06
-"*, *, Portugal",Male,*/*/1999,$5979.17
-"*, *, Portugal",Male,*/*/1999,$2534.88
-"*, *, *",Female,13/11/2005,$6230.34
-"*, *, *",Female,13/11/2005,$3334.96
-"*, Chiapas, Mexico",Female,*/*/*,$6825.59
-"*, Chiapas, Mexico",Female,*/*/*,$2690.43
-"*, *, Portugal",Female,*/*/1994,$7467.66
-"*, *, Portugal",Female,*/*/1994,$5268.85
+"*, Porto, Portugal",Male,*/*/*,$7779.56
+"*, Porto, Portugal",Male,*/*/*,$7833.82
+"*, *, Portugal",Male,*/*/1991,$7147.42
+"*, *, Portugal",Male,*/*/1991,$6417.75
+"*, *, Portugal",Female,*/05/2008,$6520.97
+"*, *, Portugal",Female,*/05/2008,$7233.37
+"*, *, Portugal",Male,*/*/2007,$7313.37
+"*, *, Portugal",Male,*/*/2007,$4578.33
+"*, Coimbra, Portugal",Female,*/*/2000,$5999.29
+"*, Coimbra, Portugal",Female,*/*/2000,$3399.67
+"*, Jalisco, Mexico",Female,*/*/*,$2174.45
+"*, Jalisco, Mexico",Female,*/*/*,$2076.62
+"*, Coimbra, Portugal",Female,*/*/*,$7198.71
+"*, Coimbra, Portugal",Female,*/*/*,$3223.62
+"*, *, Portugal",Male,*/12/1984,$3526.69
+"*, *, Portugal",Male,*/12/1984,$2661.36
+"Tibro, Västra Götaland, Sweden",Male,*/*/*,$3520.57
+"Tibro, Västra Götaland, Sweden",Male,*/*/*,$7665.45
+"Strasbourg, Alsace, France",Female,*/*/*,$1999.59
+"Strasbourg, Alsace, France",Female,*/*/*,$3445.67
+"*, Stockholm, Sweden",Female,*/*/*,$3765.74
+"*, Stockholm, Sweden",Female,*/*/*,$4391.85
+"*, Santarém, Portugal",Female,*/*/2000,$5964.41
+"*, Santarém, Portugal",Female,*/*/2000,$3375.21
+"*, *, Portugal",Male,*/10/1980,$6314.95
+"*, *, Portugal",Male,*/10/1980,$6267.86
+"*, *, Portugal",Female,*/11/2005,$6172.13
+"*, *, Portugal",Female,*/11/2005,$5368.89
+"*, Braga, Portugal",Male,*/*/*,$2142.15
+"*, Braga, Portugal",Male,*/*/*,$3200.30
 "*, Île-de-France, France",*,*/05/2003,$1768.62
 "*, Île-de-France, France",*,*/05/2003,$1422.11
-"*, *, United States",Female,*/*/1988,$7157.05
-"*, *, United States",Female,*/*/1988,$1348.47
-"Stockholm, Stockholm, Sweden",Female,*/06/1982,$2282.24
-"Stockholm, Stockholm, Sweden",Female,*/06/1982,$6525.14
-"*, *, Canada",Male,*/*/1995,$3609.17
-"*, *, Canada",Male,*/*/1995,$6383.39
-"Uddevalla, Västra Götaland, Sweden",Female,*/*/*,$5126.92
-"Uddevalla, Västra Götaland, Sweden",Female,*/*/*,$5240.94
-"*, *, United States",Male,*/01/2007,$1681.00
-"*, *, United States",Male,*/01/2007,$813.67
-"Lidingö, Stockholm, Sweden",Female,*/*/*,$2385.96
-"Lidingö, Stockholm, Sweden",Female,*/*/*,$939.87
-"*, *, *",Female,*/06/2001,$3747.55
-"*, *, *",Female,*/06/2001,$2184.75
-"*, Aquitaine, France",Female,*/03/1995,$5475.66
-"*, Aquitaine, France",Female,*/03/1995,$3531.22
-"*, Lisboa, Portugal",Male,*/*/*,$2381.31
-"*, Lisboa, Portugal",Male,*/*/*,$6691.57
-"*, *, Mexico",Male,*/*/1990,$883.43
-"*, *, Mexico",Male,*/*/1990,$6445.22
-"*, Braga, Portugal",Male,*/*/1984,$2558.30
-"*, Braga, Portugal",Male,*/*/1984,$1558.87
-"*, Haute-Normandie, France",*,*/*/2002,$6889.74
-"*, Haute-Normandie, France",*,*/*/2002,$7512.12
-"*, British Columbia, Canada",Male,*/*/*,$2617.72
-"*, British Columbia, Canada",Male,*/*/*,$1653.38
-"*, *, Canada",Female,*/09/1992,$4139.57
-"*, *, Canada",Female,*/09/1992,$4234.16
-"*, *, Portugal",Female,*/*/1988,$3223.62
-"*, *, Portugal",Female,*/*/1988,$4022.26
-"*, *, Portugal",Male,*/02/1982,$7296.43
-"*, *, Portugal",Male,*/02/1982,$7552.80
-"*, Alsace, France",Male,*/*/1981,$4263.66
-"*, Alsace, France",Male,*/*/1981,$6987.28
-"*, *, Portugal",Female,*/11/1998,$2270.42
-"*, *, Portugal",Female,*/11/1998,$6030.61
-"*, Québec, Canada",Male,*/*/*,$4501.34
-"*, Québec, Canada",Male,*/*/*,$6642.44
-"*, *, United States",Female,*/*/2000,$6964.99
-"*, *, United States",Female,*/*/2000,$1676.91
-"*, California, United States",*,*/*/1990,$2065.92
-"*, California, United States",*,*/*/1990,$1165.10
-"*, Bretagne, France",Male,*/*/1999,$6856.56
-"*, Bretagne, France",Male,*/*/1999,$5116.30
-"*, *, United States",Female,*/10/2003,$1839.10
-"*, *, United States",Female,*/10/2003,$1668.43
-"*, Västmanland, Sweden",Male,*/*/*,$2468.51
-"*, Västmanland, Sweden",Male,*/*/*,$4682.04
-"*, *, *",Female,*/09/2009,$5213.70
-"*, *, *",Female,*/09/2009,$2858.06
-"*, *, Portugal",Female,*/09/1982,$2029.76
-"*, *, Portugal",Female,*/09/1982,$1708.14
-"*, Setúbal, Portugal",Male,*/*/2000,$3591.12
-"*, Setúbal, Portugal",Male,*/*/2000,$3573.26
-"*, *, *",Female,22/06/1996,$2981.49
-"*, *, *",Female,22/06/1996,$3849.89
-"*, Leiria, Portugal",Male,*/*/*,$1858.90
-"*, Leiria, Portugal",Male,*/*/*,$2944.40
-"*, *, Portugal",Male,*/*/1988,$6298.92
-"*, *, Portugal",Male,*/*/1988,$4590.54
-"Orléans, Centre, France",Male,*/*/*,$2655.12
-"Orléans, Centre, France",Male,*/*/*,$7519.69
-"Eskilstuna, Södermanland, Sweden",Male,*/*/*,$6721.69
-"Eskilstuna, Södermanland, Sweden",Male,*/*/*,$7175.98
-"*, *, *",Female,*/06/1985,$7525.73
-"*, *, *",Female,*/06/1985,$3014.90
-"*, Östergötland, Sweden",Male,*/*/*,$3775.21
-"*, Östergötland, Sweden",Male,*/*/*,$2411.09
-"*, *, *",Female,*/01/2000,$5152.79
-"*, *, *",Female,*/01/2000,$5737.46
-"*, Braga, Portugal",Male,*/*/*,$2261.44
-"*, Braga, Portugal",Male,*/*/*,$3200.30
-"Denver, Colorado, United States",*,*/*/*,$6553.93
-"Denver, Colorado, United States",*,*/*/*,$4689.02
-"*, Chiapas, Mexico",Female,*/*/*,$3667.75
-"*, Chiapas, Mexico",Female,*/*/*,$7018.06
-"*, Texas, United States",*,*/*/1999,$5896.63
-"*, Texas, United States",*,*/*/1999,$4941.92
-"*, *, United States",Male,*/10/1986,$6068.22
-"*, *, United States",Male,*/10/1986,$1059.41
-"*, *, France",Female,*/*/2003,$5080.95
-"*, *, France",Female,*/*/2003,$6183.10
-"*, *, United States",Female,*/10/1997,$5428.38
-"*, *, United States",Female,*/10/1997,$6834.47
-"Fort Lauderdale, Florida, United States",Female,*/*/*,$4305.72
-"Fort Lauderdale, Florida, United States",Female,*/*/*,$4324.50
-"*, *, Portugal",Male,*/*/1984,$7345.49
-"*, *, Portugal",Male,*/*/1984,$2420.72
-"Campelos, Lisboa, Portugal",Male,*/*/*,$2437.75
-"Campelos, Lisboa, Portugal",Male,*/*/*,$6026.38
-"*, Québec, Canada",Male,*/*/*,$7082.80
-"*, Québec, Canada",Male,*/*/*,$3613.73
-"Nantes, Pays de la Loire, France",*,*/*/2004,$5054.87
-"Nantes, Pays de la Loire, France",*,*/*/2004,$6148.93
-"*, Manitoba, Canada",Male,*/*/*,$6289.41
-"*, Manitoba, Canada",Male,*/*/*,$7376.21
+"*, Stockholm, Sweden",Male,*/*/1995,$3372.24
+"*, Stockholm, Sweden",Male,*/*/1995,$6327.46
 "*, *, Portugal",*,20/03/1990,$1245.80
 "*, *, Portugal",*,20/03/1990,$1610.27
-"*, California, United States",Male,*/*/1993,$2795.69
-"*, California, United States",Male,*/*/1993,$953.73
-"Cincinnati, Ohio, United States",*,*/*/*,$2843.99
-"Cincinnati, Ohio, United States",*,*/*/*,$4047.44
-"*, *, Portugal",Female,*/*/2008,$6520.97
-"*, *, Portugal",Female,*/*/2008,$6907.90
-"*, Île-de-France, France",Male,*/*/*,$4254.84
-"*, Île-de-France, France",Male,*/*/*,$4879.99
-"*, Västerbotten, Sweden",Female,*/*/*,$6563.49
-"*, Västerbotten, Sweden",Female,*/*/*,$3615.07
-"*, Braga, Portugal",Male,*/*/*,$2566.78
-"*, Braga, Portugal",Male,*/*/*,$2867.51
-"Gävle, Gävleborg, Sweden",*,*/*/*,$2789.50
-"Gävle, Gävleborg, Sweden",*,*/*/*,$6867.13
-"*, Coimbra, Portugal",Female,*/*/2000,$3399.67
-"*, Coimbra, Portugal",Female,*/*/2000,$5999.29
-"*, Lorraine, France",Female,*/*/*,$7595.55
-"*, Lorraine, France",Female,*/*/*,$4160.18
-"Metz, Lorraine, France",Male,*/*/*,$3030.74
-"Metz, Lorraine, France",Male,*/*/*,$2458.05
-"Saint Louis, Missouri, United States",*,*/*/*,$5130.58
-"Saint Louis, Missouri, United States",*,*/*/*,$6968.33
-"*, *, *",Female,06/05/1983,$3229.72
-"*, *, *",Female,06/05/1983,$2934.66
-"*, Ontario, Canada",Male,*/*/*,$6983.95
-"*, Ontario, Canada",Male,*/*/*,$1319.03
-"*, Île-de-France, France",Female,*/*/*,$1191.96
-"*, Île-de-France, France",Female,*/*/*,$5536.87
-"*, Aquitaine, France",Male,*/*/*,$1841.41
-"*, Aquitaine, France",Male,*/*/*,$3542.00
-"*, *, Portugal",Female,*/05/1981,$5847.43
-"*, *, Portugal",Female,*/05/1981,$7847.46
-"*, Värmland, Sweden",Male,*/*/*,$5443.77
-"*, Värmland, Sweden",Male,*/*/*,$5435.41
-"*, *, *",Female,*/08/2003,$1095.44
-"*, *, *",Female,*/08/2003,$7582.88
-"*, Nova Scotia, Canada",Male,*/*/*,$5937.25
-"*, Nova Scotia, Canada",Male,*/*/*,$4067.61
-"Nice, Provence-Alpes-Côte d'Azur, France",Male,*/*/*,$2208.72
-"Nice, Provence-Alpes-Côte d'Azur, France",Male,*/*/*,$1466.87
-"*, Leiria, Portugal",Male,*/*/*,$4323.07
-"*, Leiria, Portugal",Male,*/*/*,$5038.59
-"*, Mexico, Mexico",*,*/12/2001,$7814.46
-"*, Mexico, Mexico",*,*/12/2001,$5229.44
-"*, Viana do Castelo, Portugal",Male,*/*/*,$7454.96
-"*, Viana do Castelo, Portugal",Male,*/*/*,$4919.65
-"*, *, *",Female,*/07/1996,$7410.13
-"*, *, *",Female,*/07/1996,$2642.75
-"*, Ontario, Canada",Female,*/*/*,$2465.50
-"*, Ontario, Canada",Female,*/*/*,$7096.91
-"Épinal, Lorraine, France",Female,*/*/*,$2306.32
-"Épinal, Lorraine, France",Female,*/*/*,$3201.59
-"*, California, United States",Female,*/*/*,$7942.98
-"*, California, United States",Female,*/*/*,$5892.17
-"*, Provence-Alpes-Côte d'Azur, France",Male,*/*/*,$1742.83
-"*, Provence-Alpes-Côte d'Azur, France",Male,*/*/*,$7199.46
-"*, Stockholm, Sweden",*,*/02/1983,$5412.88
-"*, Stockholm, Sweden",*,*/02/1983,$7922.29
-"Stockholm, Stockholm, Sweden",Female,*/*/*,$7290.49
-"Stockholm, Stockholm, Sweden",Female,*/*/*,$2007.00
-"*, *, *",Female,*/07/2000,$4762.01
-"*, *, *",Female,*/07/2000,$3800.57
-"*, *, *",Male,*/02/1991,$1240.82
-"*, *, *",Male,*/02/1991,$3076.92
-"Stockholm, Stockholm, Sweden",Female,*/*/*,$6416.83
-"Stockholm, Stockholm, Sweden",Female,*/*/*,$6950.84
-"*, Viseu, Portugal",Male,*/*/1999,$3618.49
-"*, Viseu, Portugal",Male,*/*/1999,$6056.46
+"*, *, Portugal",Male,*/04/1995,$2608.66
+"*, *, Portugal",Male,*/04/1995,$2582.92
+"*, *, Portugal",Female,*/01/1990,$6376.96
+"*, *, Portugal",Female,*/01/1990,$3878.76
+"*, North Carolina, United States",Male,*/*/*,$4879.74
+"*, North Carolina, United States",Male,*/*/*,$5366.98
+"Uppsala, Uppsala, Sweden",Female,*/*/*,$4109.65
+"Uppsala, Uppsala, Sweden",Female,*/*/*,$2541.75
+"São Paio de Gramaços, Coimbra, Portugal",Female,*/*/*,$2849.06
+"São Paio de Gramaços, Coimbra, Portugal",Female,*/*/*,$7588.24
+"*, *, Portugal",Male,*/*/1995,$4389.71
+"*, *, Portugal",Male,*/*/1995,$6842.64
 "Boulogne-Billancourt, Île-de-France, France",Male,*/*/*,$6769.72
 "Boulogne-Billancourt, Île-de-France, France",Male,*/*/*,$7109.56
-"Boden, Norrbotten, Sweden",Male,*/*/*,$3003.76
-"Boden, Norrbotten, Sweden",Male,*/*/*,$2161.64
-"*, Porto, Portugal",Male,*/02/1997,$4472.72
-"*, Porto, Portugal",Male,*/02/1997,$2932.96
-"*, Veracruz Llave, Mexico",Female,*/*/*,$6340.24
-"*, Veracruz Llave, Mexico",Female,*/*/*,$2071.57
-"Philadelphia, Pennsylvania, United States",Male,*/*/*,$7248.09
-"Philadelphia, Pennsylvania, United States",Male,*/*/*,$1697.67
-"*, Île-de-France, France",Female,*/08/2007,$3525.88
-"*, Île-de-France, France",Female,*/08/2007,$5163.00
-"Marseille, Provence-Alpes-Côte d'Azur, France",Female,*/*/*,$1353.19
-"Marseille, Provence-Alpes-Côte d'Azur, France",Female,*/*/*,$5763.40
-"*, Alberta, Canada",Male,*/*/*,$5387.93
-"*, Alberta, Canada",Male,*/*/*,$4910.20
-"*, *, Mexico",Male,*/*/*,$4077.84
-"*, *, Mexico",Male,*/*/*,$6995.08
-"*, *, France",Male,*/*/2004,$3511.27
-"*, *, France",Male,*/*/2004,$4907.54
-"*, Île-de-France, France",Female,*/*/*,$2236.23
-"*, Île-de-France, France",Female,*/*/*,$4480.55
-"*, Île-de-France, France",Female,*/12/1986,$2918.64
-"*, Île-de-France, France",Female,*/12/1986,$7474.04
-"*, *, Portugal",Female,*/06/1993,$5532.48
-"*, *, Portugal",Female,*/06/1993,$4550.26
-"*, *, Portugal",Male,*/08/1994,$1809.17
-"*, *, Portugal",Male,*/08/1994,$3868.21
-"*, *, France",Male,*/02/1989,$5700.29
-"*, *, France",Male,*/02/1989,$1186.54
-"Göteborg, Västra Götaland, Sweden",Female,*/*/*,$7586.61
-"Göteborg, Västra Götaland, Sweden",Female,*/*/*,$5891.65
-"*, Newfoundland and Labrador, Canada",Female,*/*/*,$2100.45
-"*, Newfoundland and Labrador, Canada",Female,*/*/*,$7913.17
-"*, *, United States",Female,*/*/2004,$3435.26
-"*, *, United States",Female,*/*/2004,$5447.94
-"*, Skåne, Sweden",Male,*/*/*,$6293.42
-"*, Skåne, Sweden",Male,*/*/*,$2969.04
-"*, *, Mexico",Male,*/*/2000,$3209.90
-"*, *, Mexico",Male,*/*/2000,$4477.79
-"*, *, Portugal",Female,*/10/1980,$1653.56
-"*, *, Portugal",Female,*/10/1980,$7622.47
-"*, Florida, United States",Male,*/*/1998,$7355.48
-"*, Florida, United States",Male,*/*/1998,$2212.91
-"*, Mexico, Mexico",Male,*/*/*,$7517.14
-"*, Mexico, Mexico",Male,*/*/*,$1403.09
-"*, Pays de la Loire, France",Female,*/*/*,$7274.50
-"*, Pays de la Loire, France",Female,*/*/*,$4627.31
-"Svalöv, Skåne, Sweden",Female,*/*/*,$1798.82
-"Svalöv, Skåne, Sweden",Female,*/*/*,$7553.46
-"*, Västra Götaland, Sweden",Female,*/*/1992,$6651.08
-"*, Västra Götaland, Sweden",Female,*/*/1992,$5268.12
-"*, Stockholm, Sweden",*,*/*/1985,$2692.72
-"*, Stockholm, Sweden",*,*/*/1985,$4391.85
-"*, Île-de-France, France",Male,*/05/1985,$3752.70
-"*, Île-de-France, France",Male,*/05/1985,$6939.54
-"*, *, *",Male,*/03/2008,$7816.91
-"*, *, *",Male,*/03/2008,$3602.31
-"Katrineholm, Södermanland, Sweden",*,*/*/*,$7783.26
-"Katrineholm, Södermanland, Sweden",*,*/*/*,$4874.88
-"*, *, *",Female,15/03/2004,$5798.07
-"*, *, *",Female,15/03/2004,$5477.25
-"*, *, Portugal",Female,*/03/1986,$1684.26
-"*, *, Portugal",Female,*/03/1986,$7659.54
-"*, *, *",Male,25/03/1994,$7753.78
-"*, *, *",Male,25/03/1994,$4504.29
-"*, Île-de-France, France",Female,*/10/1993,$6649.25
-"*, Île-de-France, France",Female,*/10/1993,$6294.64
-"*, Ohio, United States",Male,*/*/*,$3911.57
-"*, Ohio, United States",Male,*/*/*,$3911.50
-"*, Québec, Canada",Female,*/*/1982,$5074.78
-"*, Québec, Canada",Female,*/*/1982,$3027.02
-"*, *, France",Female,*/*/2002,$1032.68
-"*, *, France",Female,*/*/2002,$7213.98
-"*, Veracruz Llave, Mexico",Male,*/*/*,$4856.16
-"*, Veracruz Llave, Mexico",Male,*/*/*,$4430.56
-"*, *, United States",Female,*/*/2009,$805.10
-"*, *, United States",Female,*/*/2009,$943.67
-"*, Västra Götaland, Sweden",Female,*/*/2002,$6869.03
-"*, Västra Götaland, Sweden",Female,*/*/2002,$4382.96
-"*, Braga, Portugal",Female,*/*/*,$5848.86
-"*, Braga, Portugal",Female,*/*/*,$7327.12
-"*, Stockholm, Sweden",*,*/*/2000,$919.06
-"*, Stockholm, Sweden",*,*/*/2000,$4941.80
-"*, *, Portugal",Male,29/11/1987,$1374.14
-"*, *, Portugal",Male,29/11/1987,$5948.45
-"Metz, Lorraine, France",Female,*/*/*,$2463.52
-"Metz, Lorraine, France",Female,*/*/*,$6428.54
-"*, *, *",Male,*/05/1995,$1967.98
-"*, *, *",Male,*/05/1995,$6842.64
-"*, Bragança, Portugal",Male,*/*/*,$4468.82
-"*, Bragança, Portugal",Male,*/*/*,$7917.34
-"Bengtsfors, Västra Götaland, Sweden",Male,*/*/*,$5726.93
-"Bengtsfors, Västra Götaland, Sweden",Male,*/*/*,$5039.13
-"*, Västra Götaland, Sweden",*,*/*/1996,$4862.69
-"*, Västra Götaland, Sweden",*,*/*/1996,$6059.58
-"*, Bretagne, France",Male,*/*/*,$3827.17
-"*, Bretagne, France",Male,*/*/*,$5323.97
-"*, *, France",Male,*/07/1996,$6648.08
-"*, *, France",Male,*/07/1996,$6606.39
-"*, *, Portugal",Male,*/04/2001,$7491.62
-"*, *, Portugal",Male,*/04/2001,$6118.17
-"*, Faro, Portugal",Female,*/*/*,$5189.45
-"*, Faro, Portugal",Female,*/*/*,$3082.24
-"*, *, United States",Male,*/07/2007,$7890.52
-"*, *, United States",Male,*/07/2007,$3435.80
-"*, *, United States",Female,*/*/1981,$5953.02
-"*, *, United States",Female,*/*/1981,$5249.08
-"*, *, *",Male,*/11/1985,$2816.85
-"*, *, *",Male,*/11/1985,$6436.46
-"*, *, Canada",Female,*/03/2006,$1786.57
-"*, *, Canada",Female,*/03/2006,$5372.60
-"*, Ontario, Canada",Male,*/*/*,$5453.13
-"*, Ontario, Canada",Male,*/*/*,$2454.18
-"*, *, Portugal",Male,*/10/1980,$6267.86
-"*, *, Portugal",Male,*/10/1980,$6314.95
-"*, Provence-Alpes-Côte d'Azur, France",Female,*/*/*,$1622.32
-"*, Provence-Alpes-Côte d'Azur, France",Female,*/*/*,$6974.65
-"*, Oaxaca, Mexico",Female,*/*/*,$3556.11
-"*, Oaxaca, Mexico",Female,*/*/*,$6285.72
-"*, *, France",Female,*/*/2007,$6827.27
-"*, *, France",Female,*/*/2007,$7418.79
-"Cergy-Pontoise, Île-de-France, France",Female,*/*/*,$6872.51
-"Cergy-Pontoise, Île-de-France, France",Female,*/*/*,$3374.55
-"*, Île-de-France, France",Male,*/*/1990,$5004.78
-"*, Île-de-France, France",Male,*/*/1990,$7503.54
-"*, *, United States",Female,*/07/1993,$4241.71
-"*, *, United States",Female,*/07/1993,$3031.23
-"*, Oklahoma, United States",Male,*/*/*,$5307.88
-"*, Oklahoma, United States",Male,*/*/*,$2729.76
-"*, *, Mexico",Female,*/10/1996,$1780.40
-"*, *, Mexico",Female,*/10/1996,$2667.16
-"Mobile, Alabama, United States",*,*/*/*,$4942.31
-"Mobile, Alabama, United States",*,*/*/*,$5407.86
-"*, *, *",Male,*/09/2003,$6593.84
-"*, *, *",Male,*/09/2003,$2946.37
-"*, Basse-Normandie, France",Female,*/*/*,$6749.04
-"*, Basse-Normandie, France",Female,*/*/*,$2422.65
-"*, Skåne, Sweden",Female,*/*/2004,$7758.57
-"*, Skåne, Sweden",Female,*/*/2004,$7475.57
-"*, Porto, Portugal",Female,*/*/1995,$4764.60
-"*, Porto, Portugal",Female,*/*/1995,$948.41
-"*, Provence-Alpes-Côte d'Azur, France",Female,*/*/*,$5404.43
-"*, Provence-Alpes-Côte d'Azur, France",Female,*/*/*,$6860.11
-"Eskilstuna, Södermanland, Sweden",Female,*/*/*,$886.98
-"Eskilstuna, Södermanland, Sweden",Female,*/*/*,$7858.32
-"*, *, Mexico",Female,*/*/1995,$1483.52
-"*, *, Mexico",Female,*/*/1995,$5563.62
-"*, *, *",Male,*/11/2004,$4107.46
-"*, *, *",Male,*/11/2004,$1129.83
-"*, *, France",*,*/03/1986,$976.45
-"*, *, France",*,*/03/1986,$3988.74
-"*, Newfoundland and Labrador, Canada",Female,*/*/1985,$3993.28
-"*, Newfoundland and Labrador, Canada",Female,*/*/1985,$5677.54
-"*, *, Sweden",Female,*/11/1981,$7035.04
-"*, *, Sweden",Female,*/11/1981,$4767.88
-"*, *, Portugal",Female,*/11/2005,$5368.89
-"*, *, Portugal",Female,*/11/2005,$6172.13
-"*, *, Mexico",*,*/06/2004,$4531.43
-"*, *, Mexico",*,*/06/2004,$7048.51
-"*, *, Sweden",Male,*/*/2000,$5745.78
-"*, *, Sweden",Male,*/*/2000,$2321.79
-"*, Île-de-France, France",Female,*/*/*,$4680.61
-"*, Île-de-France, France",Female,*/*/*,$2654.98
-"*, *, France",Female,*/*/1989,$1280.62
-"*, *, France",Female,*/*/1989,$2004.14
-"*, Nord-Pas-de-Calais, France",Male,*/*/*,$2329.05
-"*, Nord-Pas-de-Calais, France",Male,*/*/*,$3316.55
-"*, Québec, Canada",Female,*/*/1998,$3976.35
-"*, Québec, Canada",Female,*/*/1998,$2268.22
-"*, Île-de-France, France",Male,*/*/1989,$6691.81
-"*, Île-de-France, France",Male,*/*/1989,$4959.20
-"*, *, United States",Female,*/*/1994,$2781.81
-"*, *, United States",Female,*/*/1994,$3041.78
-"*, *, Mexico",Female,*/*/1996,$4970.32
-"*, *, Mexico",Female,*/*/1996,$1144.42
-"*, *, *",Male,10/05/1997,$1247.98
-"*, *, *",Male,10/05/1997,$5366.98
-"*, *, *",Male,*/12/1982,$4285.93
-"*, *, *",Male,*/12/1982,$3859.70
-"*, Setúbal, Portugal",Female,*/*/*,$2533.07
-"*, Setúbal, Portugal",Female,*/*/*,$7753.83
-"Besançon, Franche-Comté, France",Male,*/*/*,$5689.99
-"Besançon, Franche-Comté, France",Male,*/*/*,$3772.66
-"*, Jalisco, Mexico",Male,*/*/*,$2587.42
-"*, Jalisco, Mexico",Male,*/*/*,$3989.06
-"*, Ontario, Canada",Male,*/*/*,$3468.54
-"*, Ontario, Canada",Male,*/*/*,$6095.84
-"*, Vila Real, Portugal",Male,*/*/*,$6999.54
-"*, Vila Real, Portugal",Male,*/*/*,$2106.68
-"*, *, Portugal",Female,*/01/2005,$1213.00
-"*, *, Portugal",Female,*/01/2005,$6296.35
-"*, *, Sweden",Female,*/*/2008,$7268.00
-"*, *, Sweden",Female,*/*/2008,$4109.65
-"*, Setúbal, Portugal",Male,*/*/1984,$4443.31
-"*, Setúbal, Portugal",Male,*/*/1984,$2661.36
-"*, Kentucky, United States",Female,*/*/*,$4117.83
-"*, Kentucky, United States",Female,*/*/*,$4178.43
-"*, Arizona, United States",Female,*/*/*,$7947.82
-"*, Arizona, United States",Female,*/*/*,$7511.52
-"*, Ilha de São Miguel, Portugal",Male,*/*/*,$5530.59
-"*, Ilha de São Miguel, Portugal",Male,*/*/*,$4389.71
-"*, *, *",Female,*/01/2003,$2137.01
-"*, *, *",Female,*/01/2003,$7718.13
-"Tulsa, Oklahoma, United States",Female,*/*/*,$3480.31
-"Tulsa, Oklahoma, United States",Female,*/*/*,$7653.00
-"*, Texas, United States",Female,*/*/*,$7700.50
-"*, Texas, United States",Female,*/*/*,$3006.83
-"*, *, Canada",Female,*/07/2001,$2894.36
-"*, *, Canada",Female,*/07/2001,$7801.31
-"*, Aveiro, Portugal",Male,*/*/*,$962.88
-"*, Aveiro, Portugal",Male,*/*/*,$7973.93
-"Nässjö, Jönköping, Sweden",*,*/*/2010,$6819.26
-"Nässjö, Jönköping, Sweden",*,*/*/2010,$2260.68
-"*, *, Portugal",Female,*/*/2000,$3114.52
-"*, *, Portugal",Female,*/*/2000,$3375.21
-"*, Porto, Portugal",Female,*/*/2002,$3725.73
-"*, Porto, Portugal",Female,*/*/2002,$1973.45
-"*, Québec, Canada",Female,*/*/*,$1032.14
-"*, Québec, Canada",Female,*/*/*,$4240.55
-"*, Aveiro, Portugal",Female,*/*/2002,$4713.83
-"*, Aveiro, Portugal",Female,*/*/2002,$6310.65
-"*, *, Portugal",Male,*/03/2003,$5214.50
-"*, *, Portugal",Male,*/03/2003,$7421.85
-"*, Texas, United States",Male,*/*/*,$7638.46
-"*, Texas, United States",Male,*/*/*,$4000.92
-"*, Guanajuato, Mexico",Male,*/*/*,$7718.68
-"*, Guanajuato, Mexico",Male,*/*/*,$5747.87
-"*, *, Portugal",Male,*/*/1985,$5932.94
-"*, *, Portugal",Male,*/*/1985,$3863.39
-"*, *, Sweden",Male,*/03/1989,$6874.81
-"*, *, Sweden",Male,*/03/1989,$3218.09
-"*, Pays de la Loire, France",Female,*/*/*,$6432.81
-"*, Pays de la Loire, France",Female,*/*/*,$1484.69
-"Annecy, Rhône-Alpes, France",Female,*/*/*,$7382.35
-"Annecy, Rhône-Alpes, France",Female,*/*/*,$3055.75
-"*, Dalarna, Sweden",Female,*/*/*,$7201.47
-"*, Dalarna, Sweden",Female,*/*/*,$6250.72
-"*, *, *",Male,*/03/2008,$2142.15
-"*, *, *",Male,*/03/2008,$2096.28
-"*, *, United States",Male,*/*/1987,$3191.09
-"*, *, United States",Male,*/*/1987,$7402.15
-"Göteborg, Västra Götaland, Sweden",Male,*/*/*,$6881.36
-"Göteborg, Västra Götaland, Sweden",Male,*/*/*,$7924.89
-"*, *, Portugal",Female,*/06/2009,$3483.46
-"*, *, Portugal",Female,*/06/2009,$7591.61
-"*, *, Sweden",Male,*/*/1988,$1574.30
-"*, *, Sweden",Male,*/*/1988,$962.08
-"Oromocto, New Brunswick, Canada",Female,*/*/*,$1403.76
-"Oromocto, New Brunswick, Canada",Female,*/*/*,$5396.24
-"*, Évora, Portugal",Female,*/*/*,$4052.82
-"*, Évora, Portugal",Female,*/*/*,$3090.80
-"*, Michoacan De Ocampo, Mexico",Male,*/*/*,$2344.10
-"*, Michoacan De Ocampo, Mexico",Male,*/*/*,$6686.36
-"*, *, Portugal",Male,*/02/1991,$6417.75
-"*, *, Portugal",Male,*/02/1991,$7831.28
-"*, Île-de-France, France",Male,*/*/2006,$7825.33
-"*, Île-de-France, France",Male,*/*/2006,$1492.88
-"*, *, United States",*,*/11/2005,$1966.51
-"*, *, United States",*,*/11/2005,$3112.29
-"*, Centre, France",Female,*/*/2005,$2471.10
-"*, Centre, France",Female,*/*/2005,$1242.05
-"*, *, United States",Male,*/10/1981,$5731.07
-"*, *, United States",Male,*/10/1981,$6189.32
-"*, Viseu, Portugal",Female,*/*/1987,$7760.46
-"*, Viseu, Portugal",Female,*/*/1987,$1367.51
-"*, Île-de-France, France",Male,*/*/*,$1174.30
-"*, Île-de-France, France",Male,*/*/*,$5825.49
-"São Paio de Gramaços, Coimbra, Portugal",Female,*/*/*,$7588.24
-"São Paio de Gramaços, Coimbra, Portugal",Female,*/*/*,$2849.06
-"*, *, *",Female,14/10/2000,$1126.55
-"*, *, *",Female,14/10/2000,$4938.67
-"*, *, France",Male,*/*/2000,$4510.14
-"*, *, France",Male,*/*/2000,$2851.56
-"Lidköping, Västra Götaland, Sweden",Female,*/*/*,$4161.69
-"Lidköping, Västra Götaland, Sweden",Female,*/*/*,$4306.65
+"*, Porto, Portugal",Male,*/*/*,$2263.59
+"*, Porto, Portugal",Male,*/*/*,$2420.72
+"*, Manitoba, Canada",Female,*/*/*,$7209.03
+"*, Manitoba, Canada",Female,*/*/*,$983.67
+"*, Stockholm, Sweden",Female,*/*/*,$5609.60
+"*, Stockholm, Sweden",Female,*/*/*,$4848.93
+"*, Coahuila De Zaragoza, Mexico",Male,*/*/*,$2435.84
+"*, Coahuila De Zaragoza, Mexico",Male,*/*/*,$5328.86
+"*, Île-de-France, France",*,*/01/2006,$1907.75
+"*, Île-de-France, France",*,*/01/2006,$1492.88
+"Rennes, Bretagne, France",Male,*/*/*,$5362.26
 "Rennes, Bretagne, France",Male,*/*/*,$6712.81
-"Rennes, Bretagne, France",Male,*/*/*,$4197.51
-"*, *, United States",Female,*/*/1983,$7589.64
-"*, *, United States",Female,*/*/1983,$3201.71
-"New Haven, Connecticut, United States",Female,*/*/*,$4441.41
-"New Haven, Connecticut, United States",Female,*/*/*,$1899.31
-"*, *, Portugal",Female,*/*/1988,$3721.36
-"*, *, Portugal",Female,*/*/1988,$4302.66
-"*, Michoacan De Ocampo, Mexico",Female,*/*/*,$2407.39
-"*, Michoacan De Ocampo, Mexico",Female,*/*/*,$7184.92
-"*, *, *",Female,*/07/1985,$4468.31
-"*, *, *",Female,*/07/1985,$1145.67
-"*, *, *",Female,*/09/1992,$3912.08
-"*, *, *",Female,*/09/1992,$3358.30
-"*, *, United States",Female,*/*/1995,$5116.24
-"*, *, United States",Female,*/*/1995,$5057.48
-"*, Stockholm, Sweden",Male,*/*/*,$4176.07
-"*, Stockholm, Sweden",Male,*/*/*,$3349.35
-"*, Florida, United States",Male,*/*/1991,$5721.70
-"*, Florida, United States",Male,*/*/1991,$7516.22
-"*, Västerbotten, Sweden",Male,*/*/1999,$1611.42
-"*, Västerbotten, Sweden",Male,*/*/1999,$3109.94
-"*, *, *",Female,*/05/2005,$1310.34
-"*, *, *",Female,*/05/2005,$5609.60
-"*, England, United Kingdom",Female,*/*/*,$7166.43
-"*, England, United Kingdom",Female,*/*/*,$1569.15
-"*, North Carolina, United States",Male,*/*/*,$4879.74
-"*, North Carolina, United States",Male,*/*/*,$2697.06
-"Lyon, Rhône-Alpes, France",Female,*/*/*,$6410.80
-"Lyon, Rhône-Alpes, France",Female,*/*/*,$1160.10
-"*, Setúbal, Portugal",Female,*/*/1998,$877.91
-"*, Setúbal, Portugal",Female,*/*/1998,$2335.56
-"*, Poitou-Charentes, France",Male,*/*/*,$5778.85
-"*, Poitou-Charentes, France",Male,*/*/*,$7900.09
-"Couto, Braga, Portugal",Female,*/*/*,$7046.63
-"Couto, Braga, Portugal",Female,*/*/*,$2880.77
-"*, Québec, Canada",Male,*/*/*,$1876.11
-"*, Québec, Canada",Male,*/*/*,$5790.08
-"*, Västra Götaland, Sweden",Female,*/*/*,$5087.05
-"*, Västra Götaland, Sweden",Female,*/*/*,$2350.70
-"*, Auvergne, France",Female,*/*/*,$1073.36
-"*, Auvergne, France",Female,*/*/*,$3227.73
-"*, Lisboa, Portugal",Female,*/*/*,$3639.38
-"*, Lisboa, Portugal",Female,*/*/*,$6191.96
-"*, Santarém, Portugal",Male,*/*/*,$6954.30
-"*, Santarém, Portugal",Male,*/*/*,$6680.18
-"*, *, Sweden",Female,*/*/1996,$2172.78
-"*, *, Sweden",Female,*/*/1996,$2541.75
-"*, *, *",Female,*/10/1998,$4576.59
-"*, *, *",Female,*/10/1998,$3562.87
-"*, *, *",Female,*/02/1981,$1887.39
-"*, *, *",Female,*/02/1981,$4450.49
-"*, *, Portugal",Female,*/*/1988,$6594.48
-"*, *, Portugal",Female,*/*/1988,$1426.01
-"*, *, Sweden",Female,*/08/1988,$2250.17
-"*, *, Sweden",Female,*/08/1988,$3011.36
-"*, *, Mexico",Female,*/*/*,$2098.58
-"*, *, Mexico",Female,*/*/*,$6528.84
-"*, *, United States",Female,*/10/1982,$3358.51
-"*, *, United States",Female,*/10/1982,$1641.08
-"*, *, United States",Male,*/*/2004,$1342.37
-"*, *, United States",Male,*/*/2004,$5946.05
-"*, Kalmar, Sweden",Male,*/*/*,$1583.21
-"*, Kalmar, Sweden",Male,*/*/*,$5530.85
-"*, England, United Kingdom",Male,*/*/*,$1735.93
-"*, England, United Kingdom",Male,*/*/*,$3585.70
-"*, *, United States",Female,*/*/1991,$1329.70
-"*, *, United States",Female,*/*/1991,$1288.62
-"*, *, France",*,*/11/1998,$7201.06
-"*, *, France",*,*/11/1998,$1191.22
-"*, Rhône-Alpes, France",Female,*/*/*,$7881.42
-"*, Rhône-Alpes, France",Female,*/*/*,$2565.78
-"*, *, United States",Male,*/*/1984,$5910.48
-"*, *, United States",Male,*/*/1984,$7827.47
-"*, Porto, Portugal",Female,*/*/1985,$3248.92
-"*, Porto, Portugal",Female,*/*/1985,$1488.42
-"*, *, *",Male,17/10/1987,$1188.11
-"*, *, *",Male,17/10/1987,$7817.66
-"*, Viseu, Portugal",Female,*/*/1992,$6639.31
-"*, Viseu, Portugal",Female,*/*/1992,$5919.34
-"*, *, Sweden",Male,*/*/*,$7745.97
-"*, *, Sweden",Male,*/*/*,$5563.83
-"*, Skåne, Sweden",Female,*/*/*,$1900.48
-"*, Skåne, Sweden",Female,*/*/*,$6552.66
-"*, Stockholm, Sweden",Female,*/*/1986,$7701.36
-"*, Stockholm, Sweden",Female,*/*/1986,$4664.24
-"*, Halland, Sweden",Female,*/*/*,$2587.45
-"*, Halland, Sweden",Female,*/*/*,$3951.59
-"*, *, Portugal",Male,*/*/1994,$2666.96
-"*, *, Portugal",Male,*/*/1994,$7857.47
-"*, *, Canada",Male,*/*/1998,$4675.13
-"*, *, Canada",Male,*/*/1998,$4094.94
-"*, Provence-Alpes-Côte d'Azur, France",*,*/10/1989,$7068.52
-"*, Provence-Alpes-Côte d'Azur, France",*,*/10/1989,$1655.67
-"*, *, Mexico",Male,*/*/1999,$1452.90
-"*, *, Mexico",Male,*/*/1999,$1534.82
+"Quintães, Viana do Castelo, Portugal",Female,*/*/*,$4332.69
+"Quintães, Viana do Castelo, Portugal",Female,*/*/*,$7319.09
+"*, Vila Real, Portugal",Female,*/*/*,$6907.90
+"*, Vila Real, Portugal",Female,*/*/*,$7539.41
 "*, Coimbra, Portugal",Male,*/*/*,$7800.59
-"*, Coimbra, Portugal",Male,*/*/*,$3526.69
-"*, *, United States",Female,*/*/2005,$5471.10
-"*, *, United States",Female,*/*/2005,$1112.80
-"*, Porto, Portugal",Female,*/*/1996,$7202.43
-"*, Porto, Portugal",Female,*/*/1996,$3296.00
-"*, *, *",Male,01/07/1999,$4615.15
-"*, *, *",Male,01/07/1999,$3392.24
-"*, Santarém, Portugal",Male,*/*/*,$6187.48
-"*, Santarém, Portugal",Male,*/*/*,$4575.88
-"*, Île-de-France, France",Female,*/*/*,$1246.34
-"*, Île-de-France, France",Female,*/*/*,$3435.34
-"*, *, *",Female,*/*/1997,$3561.11
-"*, *, *",Female,*/*/1997,$7077.49
-"*, Guanajuato, Mexico",Female,*/*/*,$3737.37
-"*, Guanajuato, Mexico",Female,*/*/*,$5966.72
-"Saint-Quentin-en-Yvelines, Île-de-France, France",Female,*/*/*,$4544.05
-"Saint-Quentin-en-Yvelines, Île-de-France, France",Female,*/*/*,$5352.76
-"*, Portalegre, Portugal",Female,*/*/*,$4772.43
-"*, Portalegre, Portugal",Female,*/*/*,$1575.77
-"*, Île-de-France, France",Male,*/*/*,$3945.26
-"*, Île-de-France, France",Male,*/*/*,$2627.52
-"Constance, Porto, Portugal",Female,*/*/*,$7276.96
-"Constance, Porto, Portugal",Female,*/*/*,$5823.77
-"*, *, Canada",Female,*/*/2001,$3909.93
-"*, *, Canada",Female,*/*/2001,$6431.42
+"*, Coimbra, Portugal",Male,*/*/*,$1809.17
+"*, Alberta, Canada",Male,*/*/*,$6593.84
+"*, Alberta, Canada",Male,*/*/*,$4910.20
+"*, *, *",Male,*/04/1992,$3585.70
+"*, *, *",Male,*/04/1992,$5169.65
+"*, *, Sweden",Male,*/*/1983,$6293.42
+"*, *, Sweden",Male,*/*/1983,$7922.29
 "Detroit, Michigan, United States",Male,*/*/*,$2454.79
 "Detroit, Michigan, United States",Male,*/*/*,$6235.09
-"Norton, England, United Kingdom",Male,*/*/*,$1622.77
-"Norton, England, United Kingdom",Male,*/*/*,$1127.28
-"*, *, *",Male,*/07/2008,$991.46
-"*, *, *",Male,*/07/2008,$1618.95
-"*, *, *",Female,*/11/1983,$2803.76
-"*, *, *",Female,*/11/1983,$4776.95
-"Dallas, Texas, United States",Male,*/*/*,$3427.50
-"Dallas, Texas, United States",Male,*/*/*,$3306.51
-"*, Stockholm, Sweden",Female,*/*/*,$2943.14
-"*, Stockholm, Sweden",Female,*/*/*,$4848.93
-"*, *, United States",Male,*/*/1989,$4260.81
-"*, *, United States",Male,*/*/1989,$1900.04
-"*, *, United States",Male,*/*/2002,$1006.79
-"*, *, United States",Male,*/*/2002,$1175.28
-"*, *, Portugal",Male,*/*/2007,$7833.82
-"*, *, Portugal",Male,*/*/2007,$4578.33
-"*, *, Portugal",Male,*/02/1994,$6043.66
-"*, *, Portugal",Male,*/02/1994,$2533.59
-"*, *, *",Female,*/10/1984,$2076.62
-"*, *, *",Female,*/10/1984,$2809.72
-"Washington, District of Columbia, United States",Female,*/*/*,$1715.64
-"Washington, District of Columbia, United States",Female,*/*/*,$4199.58
-"*, *, *",Male,*/02/1984,$7303.77
-"*, *, *",Male,*/02/1984,$6662.13
-"*, West Virginia, United States",Female,*/*/*,$7983.68
-"*, West Virginia, United States",Female,*/*/*,$5750.62
-"*, Västra Götaland, Sweden",Male,*/*/1991,$4930.16
-"*, Västra Götaland, Sweden",Male,*/*/1991,$7885.38
-"*, Västra Götaland, Sweden",Male,*/*/*,$3840.66
-"*, Västra Götaland, Sweden",Male,*/*/*,$7665.45
-"Stockholm, Stockholm, Sweden",*,*/*/*,$7468.47
-"Stockholm, Stockholm, Sweden",*,*/*/*,$2909.91
-"Cache Creek, British Columbia, Canada",Male,*/*/*,$3585.21
-"Cache Creek, British Columbia, Canada",Male,*/*/*,$1405.83
-"*, Viana do Castelo, Portugal",Female,*/*/1984,$5788.73
-"*, Viana do Castelo, Portugal",Female,*/*/1984,$7319.09
-"*, *, France",Female,*/*/1989,$1355.25
-"*, *, France",Female,*/*/1989,$4400.91
-"*, Örebro, Sweden",Female,*/*/*,$6144.12
-"*, Örebro, Sweden",Female,*/*/*,$3625.99
-"*, British Columbia, Canada",Female,*/*/*,$4100.69
-"*, British Columbia, Canada",Female,*/*/*,$7760.58
-"Strasbourg, Alsace, France",Female,*/*/*,$3445.67
-"Strasbourg, Alsace, France",Female,*/*/*,$1999.59
-"*, Veracruz Llave, Mexico",Male,*/*/*,$7844.90
-"*, Veracruz Llave, Mexico",Male,*/*/*,$4663.81
-"Lyon, Rhône-Alpes, France",Male,*/*/*,$4468.57
-"Lyon, Rhône-Alpes, France",Male,*/*/*,$6223.79
-"*, Ontario, Canada",Female,*/*/1994,$3688.22
-"*, Ontario, Canada",Female,*/*/1994,$7060.60
-"*, *, Sweden",Female,*/*/2005,$7134.93
-"*, *, Sweden",Female,*/*/2005,$4148.82
-"*, *, *",Male,06/10/1986,$825.82
-"*, *, *",Male,06/10/1986,$5150.96
-"*, *, Sweden",*,*/03/1982,$7314.87
-"*, *, Sweden",*,*/03/1982,$4407.88
-"*, *, Sweden",Male,*/10/2005,$7937.78
-"*, *, Sweden",Male,*/10/2005,$7242.59
+"*, England, United Kingdom",Male,*/*/*,$3837.29
+"*, England, United Kingdom",Male,*/*/*,$1735.93
+"*, *, United States",Female,*/*/2009,$805.10
+"*, *, United States",Female,*/*/2009,$4689.02
+"*, Braga, Portugal",Female,*/*/*,$6105.52
+"*, Braga, Portugal",Female,*/*/*,$7327.12
+"Göteborg, Västra Götaland, Sweden",Female,*/*/*,$7586.61
+"Göteborg, Västra Götaland, Sweden",Female,*/*/*,$5891.65
+"Besançon, Franche-Comté, France",Male,*/*/*,$7537.16
+"Besançon, Franche-Comté, France",Male,*/*/*,$5689.99
 "*, Île-de-France, France",Female,*/*/2000,$2452.61
 "*, Île-de-France, France",Female,*/*/2000,$5316.35
-"*, Vila Real, Portugal",Male,*/*/*,$5746.59
-"*, Vila Real, Portugal",Male,*/*/*,$4370.17
-"*, Provence-Alpes-Côte d'Azur, France",Female,*/*/*,$2874.62
-"*, Provence-Alpes-Côte d'Azur, France",Female,*/*/*,$5814.99
-"*, Porto, Portugal",Female,*/*/*,$4320.80
-"*, Porto, Portugal",Female,*/*/*,$1665.32
-"*, *, *",Female,*/04/1997,$5891.93
-"*, *, *",Female,*/04/1997,$5974.55
-"*, *, Mexico",Male,*/*/*,$7646.16
-"*, *, Mexico",Male,*/*/*,$7170.52
-"*, *, *",Female,*/11/2009,$7311.26
-"*, *, *",Female,*/11/2009,$5410.56
-"*, Skåne, Sweden",Male,*/*/*,$3027.41
-"*, Skåne, Sweden",Male,*/*/*,$4542.92
-"*, Saskatchewan, Canada",Female,*/*/*,$1939.10
-"*, Saskatchewan, Canada",Female,*/*/*,$5469.92
-"*, Centre, France",Male,*/*/*,$6336.71
-"*, Centre, France",Male,*/*/*,$5485.14
-"*, *, *",Male,*/07/2002,$3635.14
-"*, *, *",Male,*/07/2002,$1390.00
-"*, Jönköping, Sweden",Female,*/*/1985,$4733.60
-"*, Jönköping, Sweden",Female,*/*/1985,$5238.49
-"*, Stockholm, Sweden",Female,*/*/*,$7278.18
-"*, Stockholm, Sweden",Female,*/*/*,$5373.09
-"*, Norrbotten, Sweden",Male,*/*/*,$4632.50
-"*, Norrbotten, Sweden",Male,*/*/*,$2746.65
-"*, Västra Götaland, Sweden",Male,*/*/2001,$6578.25
-"*, Västra Götaland, Sweden",Male,*/*/2001,$5977.38
-"*, Stockholm, Sweden",Female,*/*/*,$1609.66
-"*, Stockholm, Sweden",Female,*/*/*,$3765.74
-"*, Languedoc-Roussillon, France",Female,*/*/*,$1366.21
-"*, Languedoc-Roussillon, France",Female,*/*/*,$6325.50
-"*, *, Portugal",Female,*/*/1991,$7198.71
-"*, *, Portugal",Female,*/*/1991,$4371.91
-"*, California, United States",Male,*/*/*,$3621.99
-"*, California, United States",Male,*/*/*,$6841.99
-"*, *, Portugal",Female,*/*/1990,$6169.95
-"*, *, Portugal",Female,*/*/1990,$3878.76
-"*, Île-de-France, France",Female,*/*/*,$1467.94
-"*, Île-de-France, France",Female,*/*/*,$7279.48
-"Paris 08, Île-de-France, France",*,*/*/*,$6728.72
-"Paris 08, Île-de-France, France",*,*/*/*,$5216.68
-"*, *, Portugal",Male,*/*/1996,$6549.93
-"*, *, Portugal",Male,*/*/1996,$1657.74
-"*, *, *",Female,*/08/2006,$6185.72
-"*, *, *",Female,*/08/2006,$7606.13
-"*, *, *",Male,*/04/1981,$7680.45
-"*, *, *",Male,*/04/1981,$5002.09
-"*, Île-de-France, France",Female,*/*/1987,$3108.98
-"*, Île-de-France, France",Female,*/*/1987,$5511.34
+"*, Alberta, Canada",Female,*/*/*,$1385.71
+"*, Alberta, Canada",Female,*/*/*,$4468.31
+"*, *, Canada",Male,*/*/2002,$5937.25
+"*, *, Canada",Male,*/*/2002,$3613.73
+"Puteaux, Île-de-France, France",Male,*/*/*,$7503.54
+"Puteaux, Île-de-France, France",Male,*/*/*,$7825.33
+"*, *, *",Female,*/05/1986,$7049.85
+"*, *, *",Female,*/05/1986,$7694.59
+"*, Franche-Comté, France",Male,*/*/1989,$7125.73
+"*, Franche-Comté, France",Male,*/*/1989,$3772.66
+"*, *, France",Male,*/*/2004,$880.79
+"*, *, France",Male,*/*/2004,$5054.87
+"*, *, Mexico",Female,*/10/1996,$2667.16
+"*, *, Mexico",Female,*/10/1996,$1780.40
+"*, Île-de-France, France",Female,*/04/1981,$2654.98
+"*, Île-de-France, France",Female,*/04/1981,$3435.34
+"*, Ontario, Canada",Male,*/*/*,$6095.84
+"*, Ontario, Canada",Male,*/*/*,$6383.39
+"*, *, Portugal",Female,*/10/1980,$7622.47
+"*, *, Portugal",Female,*/10/1980,$3090.80
 "*, Île-de-France, France",Male,*/*/1983,$6946.23
 "*, Île-de-France, France",Male,*/*/1983,$1020.66
-"*, Stockholm, Sweden",Female,*/*/*,$3873.74
-"*, Stockholm, Sweden",Female,*/*/*,$1188.09
-"*, Stockholm, Sweden",Male,*/*/*,$5169.65
-"*, Stockholm, Sweden",Male,*/*/*,$2282.26
-"*, Rhône-Alpes, France",Male,*/*/*,$3770.58
-"*, Rhône-Alpes, France",Male,*/*/*,$5736.48
-"*, *, United States",Female,*/*/*,$6243.42
-"*, *, United States",Female,*/*/*,$4924.11
-"*, *, France",Female,*/*/1996,$1958.82
-"*, *, France",Female,*/*/1996,$4630.99
-"Niort, Poitou-Charentes, France",Female,*/*/*,$6430.52
-"Niort, Poitou-Charentes, France",Female,*/*/*,$6674.63
-"Independence, Missouri, United States",*,*/*/*,$4095.50
-"Independence, Missouri, United States",*,*/*/*,$1320.94
-"*, Braga, Portugal",Female,*/*/*,$2309.35
-"*, Braga, Portugal",Female,*/*/*,$1411.11
-"*, *, United States",Female,*/03/1997,$4630.14
-"*, *, United States",Female,*/03/1997,$2306.02
-"Göteborg, Västra Götaland, Sweden",Female,*/*/*,$4250.40
-"Göteborg, Västra Götaland, Sweden",Female,*/*/*,$6190.47
-"*, *, Mexico",Female,*/*/2008,$4210.02
-"*, *, Mexico",Female,*/*/2008,$7048.06
-"*, *, Sweden",Female,*/*/1982,$2385.94
-"*, *, Sweden",Female,*/*/1982,$1322.83
-"*, *, Portugal",Female,*/*/2000,$6154.03
-"*, *, Portugal",Female,*/*/2000,$5964.41
-"*, Santarém, Portugal",Female,*/*/*,$7982.36
-"*, Santarém, Portugal",Female,*/*/*,$1133.30
-"*, Viana do Castelo, Portugal",Male,*/*/*,$7373.11
-"*, Viana do Castelo, Portugal",Male,*/*/*,$3783.40
-"*, *, Sweden",Male,*/*/2004,$3875.41
-"*, *, Sweden",Male,*/*/2004,$6630.49
-"Limoges, Limousin, France",Male,*/*/*,$4491.03
-"Limoges, Limousin, France",Male,*/*/*,$1399.34
-"Chicago, Illinois, United States",*,*/*/*,$7530.19
-"Chicago, Illinois, United States",*,*/*/*,$3567.45
-"*, *, Portugal",Female,*/*/*,$7816.46
-"*, *, Portugal",Female,*/*/*,$5772.69
-"*, *, Sweden",Female,*/*/1994,$4966.48
-"*, *, Sweden",Female,*/*/1994,$1916.17
-"*, Veracruz Llave, Mexico",Male,*/*/*,$996.76
-"*, Veracruz Llave, Mexico",Male,*/*/*,$3408.00
-"*, Rhône-Alpes, France",Female,*/*/*,$5447.93
-"*, Rhône-Alpes, France",Female,*/*/*,$5503.12
-"*, *, *",Female,*/*/2004,$1812.50
-"*, *, *",Female,*/*/2004,$7209.03
-"*, *, France",Male,*/*/2007,$7689.77
-"*, *, France",Male,*/*/2007,$6749.86
-"*, Aquitaine, France",Female,*/*/*,$7634.03
-"*, Aquitaine, France",Female,*/*/*,$4783.94
-"*, *, France",Male,*/*/1996,$5620.85
-"*, *, France",Male,*/*/1996,$4354.51
-"*, Jalisco, Mexico",Female,*/*/*,$2174.45
-"*, Jalisco, Mexico",Female,*/*/*,$7803.39
-"*, Aveiro, Portugal",Male,*/*/*,$2562.92
-"*, Aveiro, Portugal",Male,*/*/*,$7540.04
-"*, Setúbal, Portugal",Female,*/*/*,$3572.00
-"*, Setúbal, Portugal",Female,*/*/*,$7649.68
-"*, *, *",Male,05/10/1989,$5108.35
-"*, *, *",Male,05/10/1989,$5459.27
-"*, *, France",Male,*/*/*,$3812.30
-"*, *, France",Male,*/*/*,$4105.04
-"*, *, Portugal",Male,*/08/2003,$7070.82
-"*, *, Portugal",Male,*/08/2003,$2866.63
-"*, Braga, Portugal",Male,*/*/*,$1305.29
-"*, Braga, Portugal",Male,*/*/*,$4663.87
-"*, Québec, Canada",Female,*/*/*,$5727.15
-"*, Québec, Canada",Female,*/*/*,$6657.46
-"*, *, Sweden",Female,*/*/1983,$7155.79
-"*, *, Sweden",Female,*/*/1983,$3246.27
-"*, Castelo Branco, Portugal",Female,*/*/*,$6545.90
-"*, Castelo Branco, Portugal",Female,*/*/*,$5730.25
-"*, *, Portugal",Male,*/*/*,$4964.31
-"*, *, Portugal",Male,*/*/*,$6584.92
-"*, Västra Götaland, Sweden",Male,*/*/*,$3520.57
-"*, Västra Götaland, Sweden",Male,*/*/*,$3689.16
-"*, *, Mexico",Female,*/03/1998,$4460.26
-"*, *, Mexico",Female,*/03/1998,$3769.13
-"Sacramento, California, United States",*,*/*/*,$6742.63
-"Sacramento, California, United States",*,*/*/*,$3362.11
-"*, *, *",Female,*/10/1985,$5772.96
-"*, *, *",Female,*/10/1985,$6173.77
-"*, *, United States",Male,*/*/1993,$4300.13
-"*, *, United States",Male,*/*/1993,$3036.16
-"*, *, France",Male,*/*/*,$2942.07
-"*, *, France",Male,*/*/*,$7063.28
-"*, *, Sweden",Female,*/*/2007,$7478.53
-"*, *, Sweden",Female,*/*/2007,$4348.19
-"*, Viana do Castelo, Portugal",Female,*/*/*,$5252.25
-"*, Viana do Castelo, Portugal",Female,*/*/*,$4332.69
-"*, *, *",Female,*/11/1990,$2201.87
-"*, *, *",Female,*/11/1990,$6509.58
-"Saint-Quentin, Picardie, France",*,*/*/*,$4796.47
-"Saint-Quentin, Picardie, France",*,*/*/*,$4826.17
-"*, Lisboa, Portugal",Male,*/*/*,$5825.82
-"*, Lisboa, Portugal",Male,*/*/*,$6760.76
-"*, Viseu, Portugal",Female,*/*/*,$2320.29
-"*, Viseu, Portugal",Female,*/*/*,$4550.42
-"*, Île-de-France, France",Female,*/*/*,$4953.85
-"*, Île-de-France, France",Female,*/*/*,$1907.75
-"*, Florida, United States",Female,*/*/*,$5196.14
-"*, Florida, United States",Female,*/*/*,$1031.51
-"*, *, Mexico",Male,*/*/*,$959.80
-"*, *, Mexico",Male,*/*/*,$3389.21
-"*, *, Portugal",Male,*/*/1994,$7794.99
-"*, *, Portugal",Male,*/*/1994,$7159.29
-"*, Québec, Canada",Male,*/*/2006,$3407.45
-"*, Québec, Canada",Male,*/*/2006,$5871.22
-"*, *, Sweden",Female,*/*/1997,$6062.26
-"*, *, Sweden",Female,*/*/1997,$4718.05
-"San Francisco, California, United States",*,*/*/*,$4979.70
-"San Francisco, California, United States",*,*/*/*,$2460.19
-"*, *, *",Female,*/*/1986,$2926.75
-"*, *, *",Female,*/*/1986,$2409.34
-"*, *, *",Male,*/*/1999,$5328.86
-"*, *, *",Male,*/*/1999,$1575.72
-"*, *, Portugal",Male,*/04/1995,$2582.92
-"*, *, Portugal",Male,*/04/1995,$2608.66
-"*, *, *",Female,*/*/1984,$7741.81
-"*, *, *",Female,*/*/1984,$1350.28
-"*, Viana do Castelo, Portugal",Female,*/*/*,$3567.38
-"*, Viana do Castelo, Portugal",Female,*/*/*,$4466.02
-"*, Braga, Portugal",Female,*/*/*,$7482.17
-"*, Braga, Portugal",Female,*/*/*,$6376.96
-"*, *, United States",Male,*/*/*,$3581.83
-"*, *, United States",Male,*/*/*,$5236.49
-"*, England, United Kingdom",Male,*/*/*,$3837.29
-"*, England, United Kingdom",Male,*/*/*,$6517.73
-"*, *, United States",Female,*/*/2008,$3720.58
-"*, *, United States",Female,*/*/2008,$4329.22
-"*, Porto, Portugal",*,*/*/1983,$942.32
-"*, Porto, Portugal",*,*/*/1983,$7130.79
-"*, Québec, Canada",Female,*/*/*,$3646.85
-"*, Québec, Canada",Female,*/*/*,$5427.64
-"*, *, Canada",Female,*/*/1996,$1693.13
-"*, *, Canada",Female,*/*/1996,$7370.54
-"*, Porto, Portugal",Male,*/*/*,$2263.59
-"*, Porto, Portugal",Male,*/*/*,$5264.43
-"Orsay, Île-de-France, France",*,*/*/*,$2561.84
-"Orsay, Île-de-France, France",*,*/*/*,$1348.85
-"*, *, *",Male,*/07/1997,$5677.74
-"*, *, *",Male,*/07/1997,$1823.14
-"*, *, Portugal",Female,*/*/2005,$6289.95
-"*, *, Portugal",Female,*/*/2005,$4728.31
-"*, *, *",Female,*/08/1999,$6285.14
-"*, *, *",Female,*/08/1999,$6940.06
-"*, Porto, Portugal",Female,*/*/*,$6508.41
-"*, Porto, Portugal",Female,*/*/*,$4930.40
-"*, *, Sweden",Female,*/*/*,$1430.78
-"*, *, Sweden",Female,*/*/*,$1370.53
-"*, *, United States",*,*/*/2007,$3591.60
-"*, *, United States",*,*/*/2007,$2476.57
-"*, *, United States",Male,*/*/*,$5411.17
-"*, *, United States",Male,*/*/*,$2946.19
-"*, *, France",Male,*/*/*,$1555.57
-"*, *, France",Male,*/*/*,$7145.67
-"*, *, Portugal",Female,*/*/*,$7105.57
-"*, *, Portugal",Female,*/*/*,$7539.41
-"*, *, Canada",Female,*/*/*,$1647.59
-"*, *, Canada",Female,*/*/*,$7697.11
-"*, *, *",Male,*/*/1986,$1909.73
-"*, *, *",Male,*/*/1986,$7689.46
-"*, Saskatchewan, Canada",Male,*/*/*,$4511.71
-"*, Saskatchewan, Canada",Male,*/*/*,$3401.73
-"*, *, Sweden",Male,*/*/1987,$1846.26
-"*, *, Sweden",Male,*/*/1987,$1755.24
-"*, *, Portugal",Male,*/*/*,$7313.37
-"*, *, Portugal",Male,*/*/*,$3717.17
-"*, Porto, Portugal",Female,*/*/*,$6184.82
-"*, Porto, Portugal",Female,*/*/*,$7548.51
-"*, Franche-Comté, France",Male,*/*/*,$7537.16
-"*, Franche-Comté, France",Male,*/*/*,$7125.73
-"*, *, *",Female,*/*/1999,$7202.18
-"*, *, *",Female,*/*/1999,$6424.69
-"Stockholm, Stockholm, Sweden",Female,*/*/*,$1624.94
-"Stockholm, Stockholm, Sweden",Female,*/*/*,$5338.30
-"*, Lisboa, Portugal",Male,*/*/*,$6063.49
-"*, Lisboa, Portugal",Male,*/*/*,$3122.25
+"*, *, *",Female,*/02/2004,$7803.39
+"*, *, *",Female,*/02/2004,$3435.26
+"*, Québec, Canada",Female,*/*/1998,$2268.22
+"*, Québec, Canada",Female,*/*/1998,$3976.35
+"*, Östergötland, Sweden",Female,*/*/*,$1370.53
+"*, Östergötland, Sweden",Female,*/*/*,$4966.48
+"*, Skåne, Sweden",*,*/*/1999,$4542.92
+"*, Skåne, Sweden",*,*/*/1999,$6552.66
+"*, Skåne, Sweden",Female,*/*/*,$1900.48
+"*, Skåne, Sweden",Female,*/*/*,$7758.57
+"*, *, Canada",Female,*/*/1987,$5427.64
+"*, *, Canada",Female,*/*/1987,$4100.69
+"*, *, France",Female,*/*/1989,$4400.91
+"*, *, France",Female,*/*/1989,$2004.14
+"*, Pays de la Loire, France",Male,*/*/1994,$7145.67
+"*, Pays de la Loire, France",Male,*/*/1994,$1265.76
+"*, Setúbal, Portugal",Male,*/*/1994,$7159.29
+"*, Setúbal, Portugal",Male,*/*/1994,$7189.04
+"*, *, Mexico",Female,*/*/2001,$2690.43
+"*, *, Mexico",Female,*/*/2001,$2184.75
+"*, *, *",Male,*/12/1997,$4461.88
+"*, *, *",Male,*/12/1997,$938.01
+"Gävle, Gävleborg, Sweden",*,*/*/*,$2789.50
+"Gävle, Gävleborg, Sweden",*,*/*/*,$6867.13
+"Roanoke, Virginia, United States",Female,*/*/*,$3720.58
+"Roanoke, Virginia, United States",Female,*/*/*,$4241.71
+"*, *, Sweden",Male,*/*/1981,$3027.41
+"*, *, Sweden",Male,*/*/1981,$5563.83
+"*, Aquitaine, France",Female,*/03/1995,$5475.66
+"*, Aquitaine, France",Female,*/03/1995,$3531.22
+"*, Setúbal, Portugal",Female,*/*/1988,$1160.22
+"*, Setúbal, Portugal",Female,*/*/1988,$1404.57
+"*, *, Sweden",Female,*/*/2000,$6250.72
+"*, *, Sweden",Female,*/*/2000,$4941.80
+"*, Québec, Canada",Female,*/*/1995,$3488.65
+"*, Québec, Canada",Female,*/*/1995,$7292.50
+"*, Porto, Portugal",Male,*/*/1999,$3200.25
+"*, Porto, Portugal",Male,*/*/1999,$3392.24
 "*, Scotland, United Kingdom",Female,*/*/*,$809.15
 "*, Scotland, United Kingdom",Female,*/*/*,$2367.97
-"*, *, Portugal",Male,*/*/*,$3078.97
-"*, *, Portugal",Male,*/*/*,$4902.14
-"*, Île-de-France, France",Male,*/*/*,$1022.20
-"*, Île-de-France, France",Male,*/*/*,$3645.69
-"*, *, Portugal",Female,*/*/1988,$7091.02
-"*, *, Portugal",Female,*/*/1988,$1160.22
-"*, *, France",Male,*/*/*,$5362.26
-"*, *, France",Male,*/*/*,$6363.88
-"*, Québec, Canada",Male,*/*/*,$6296.75
+"*, *, Portugal",Male,*/*/1994,$7857.47
+"*, *, Portugal",Male,*/*/1994,$4504.29
+"*, Västra Götaland, Sweden",Female,*/12/1984,$2350.70
+"*, Västra Götaland, Sweden",Female,*/12/1984,$5701.55
+"*, Kalmar, Sweden",Female,*/*/*,$7478.53
+"*, Kalmar, Sweden",Female,*/*/*,$2923.67
+"*, *, Canada",Female,*/09/1992,$4139.57
+"*, *, Canada",Female,*/09/1992,$4234.16
+"Tampa, Florida, United States",Female,*/*/*,$3912.08
+"Tampa, Florida, United States",Female,*/*/*,$5805.91
+"*, Pays de la Loire, France",Female,*/*/*,$1484.69
+"*, Pays de la Loire, France",Female,*/*/*,$4627.31
+"*, Michoacan De Ocampo, Mexico",Female,*/*/*,$2407.39
+"*, Michoacan De Ocampo, Mexico",Female,*/*/*,$7184.92
+"*, *, United States",Male,*/*/1987,$3191.09
+"*, *, United States",Male,*/*/1987,$5407.86
+"*, *, Sweden",Female,*/08/1988,$3011.36
+"*, *, Sweden",Female,*/08/1988,$2250.17
+"*, Manitoba, Canada",Male,*/*/*,$1129.83
+"*, Manitoba, Canada",Male,*/*/*,$6289.41
+"Eskilstuna, Södermanland, Sweden",Female,*/*/*,$886.98
+"Eskilstuna, Södermanland, Sweden",Female,*/*/*,$7858.32
+"Orléans, Centre, France",Male,*/*/*,$2655.12
+"Orléans, Centre, France",Male,*/*/*,$7519.69
+"*, *, *",Male,*/06/1984,$4443.31
+"*, *, *",Male,*/06/1984,$5530.85
+"*, *, *",Female,15/03/2004,$5477.25
+"*, *, *",Female,15/03/2004,$5798.07
+"*, *, Portugal",Male,*/04/2001,$7491.62
+"*, *, Portugal",Male,*/04/2001,$6118.17
+"*, California, United States",Male,*/*/1993,$2795.69
+"*, California, United States",Male,*/*/1993,$953.73
+"*, Île-de-France, France",Female,*/12/1986,$2918.64
+"*, Île-de-France, France",Female,*/12/1986,$7474.04
+"Stockholm, Stockholm, Sweden",Female,*/06/1982,$6525.14
+"Stockholm, Stockholm, Sweden",Female,*/06/1982,$2282.24
+"*, *, France",Female,06/06/2002,$5198.50
+"*, *, France",Female,06/06/2002,$7213.98
+"*, *, Portugal",*,*/06/2009,$3078.97
+"*, *, Portugal",*,*/06/2009,$3483.46
+"*, Viseu, Portugal",Female,*/*/1992,$5919.34
+"*, Viseu, Portugal",Female,*/*/1992,$6639.31
+"*, Vila Real, Portugal",Male,*/*/*,$7831.28
+"*, Vila Real, Portugal",Male,*/*/*,$6999.54
+"*, Viseu, Portugal",Female,*/*/*,$2320.29
+"*, Viseu, Portugal",Female,*/*/*,$7760.46
+"*, *, Sweden",Female,*/11/1987,$3028.28
+"*, *, Sweden",Female,*/11/1987,$5057.22
+"*, *, *",Female,*/08/2003,$1095.44
+"*, *, *",Female,*/08/2003,$7582.88
+"*, Lisboa, Portugal",Male,*/*/*,$3122.25
+"*, Lisboa, Portugal",Male,*/*/*,$6691.57
+"*, *, Sweden",*,*/01/1998,$1583.21
+"*, *, Sweden",*,*/01/1998,$2909.91
+"*, *, Portugal",Male,29/11/1987,$5948.45
+"*, *, Portugal",Male,29/11/1987,$1374.14
+"*, Ontario, Canada",Male,*/*/1992,$3468.54
+"*, Ontario, Canada",Male,*/*/1992,$6598.41
+"Falun, Dalarna, Sweden",Male,*/*/*,$2881.34
+"Falun, Dalarna, Sweden",Male,*/*/*,$1455.74
+"*, Setúbal, Portugal",Male,*/*/2000,$3573.26
+"*, Setúbal, Portugal",Male,*/*/2000,$3591.12
+"*, Stockholm, Sweden",Female,*/*/2003,$1188.09
+"*, Stockholm, Sweden",Female,*/*/2003,$7718.13
+"*, Leiria, Portugal",Male,*/*/*,$4323.07
+"*, Leiria, Portugal",Male,*/*/*,$2944.40
+"*, *, Portugal",Female,*/*/2005,$6289.95
+"*, *, Portugal",Female,*/*/2005,$1213.00
+"*, *, United States",Male,*/01/2007,$1681.00
+"*, *, United States",Male,*/01/2007,$813.67
+"*, Ontario, Canada",Female,*/*/1994,$3688.22
+"*, Ontario, Canada",Female,*/*/1994,$7060.60
+"*, *, France",Male,*/08/2008,$3542.00
+"*, *, France",Male,*/08/2008,$2329.05
+"Tulsa, Oklahoma, United States",Female,*/*/*,$3480.31
+"Tulsa, Oklahoma, United States",Female,*/*/*,$7653.00
+"*, *, *",Female,16/06/1996,$1693.13
+"*, *, *",Female,16/06/1996,$1144.42
+"*, Porto, Portugal",Female,*/*/1985,$7276.96
+"*, Porto, Portugal",Female,*/*/1985,$1488.42
+"*, *, *",Male,*/11/1985,$2816.85
+"*, *, *",Male,*/11/1985,$6436.46
+"*, *, France",Female,15/11/2005,$1242.05
+"*, *, France",Female,15/11/2005,$7881.42
+"Couto, Braga, Portugal",Female,*/*/*,$7046.63
+"Couto, Braga, Portugal",Female,*/*/*,$2880.77
+"*, *, *",Male,*/03/2008,$2096.28
+"*, *, *",Male,*/03/2008,$3602.31
+"*, *, France",Female,*/*/2007,$6827.27
+"*, *, France",Female,*/*/2007,$7418.79
+"*, Porto, Portugal",*,*/05/1995,$948.41
+"*, Porto, Portugal",*,*/05/1995,$6584.92
+"Limoges, Limousin, France",Male,*/*/*,$4583.37
+"Limoges, Limousin, France",Male,*/*/*,$4491.03
+"*, Île-de-France, France",*,*/06/1984,$5823.97
+"*, Île-de-France, France",*,*/06/1984,$3466.43
+"Norrköping, Östergötland, Sweden",*,*/*/*,$2411.09
+"Norrköping, Östergötland, Sweden",*,*/*/*,$3800.57
+"Rungis, Île-de-France, France",Male,*/*/*,$7733.10
+"Rungis, Île-de-France, France",Male,*/*/*,$3533.25
+"*, Veracruz Llave, Mexico",Male,*/*/*,$6995.08
+"*, Veracruz Llave, Mexico",Male,*/*/*,$4430.56
+"*, Provence-Alpes-Côte d'Azur, France",Female,*/*/2003,$6183.10
+"*, Provence-Alpes-Côte d'Azur, France",Female,*/*/2003,$5404.43
+"Göteborg, Västra Götaland, Sweden",Female,*/*/*,$4148.82
+"Göteborg, Västra Götaland, Sweden",Female,*/*/*,$5268.12
+"Vila Nova de Milfontes, Beja, Portugal",Male,*/*/*,$6298.92
+"Vila Nova de Milfontes, Beja, Portugal",Male,*/*/*,$7296.43
+"*, *, United States",Male,*/*/1986,$2697.06
+"*, *, United States",Male,*/*/1986,$6068.22
+"Lidköping, Västra Götaland, Sweden",Female,*/*/*,$4306.65
+"Lidköping, Västra Götaland, Sweden",Female,*/*/*,$4161.69
+"*, *, Portugal",Female,*/08/1985,$7105.57
+"*, *, Portugal",Female,*/08/1985,$3248.92
+"*, *, Portugal",Male,*/10/1999,$2534.88
+"*, *, Portugal",Male,*/10/1999,$3618.49
+"*, Newfoundland and Labrador, Canada",Female,*/*/1985,$3993.28
+"*, Newfoundland and Labrador, Canada",Female,*/*/1985,$5677.54
+"*, Stockholm, Sweden",Male,*/*/*,$2692.72
+"*, Stockholm, Sweden",Male,*/*/*,$919.06
+"*, *, France",Male,*/07/1996,$6606.39
+"*, *, France",Male,*/07/1996,$6648.08
+"Hartford, Connecticut, United States",Male,*/*/*,$4901.14
+"Hartford, Connecticut, United States",Male,*/*/*,$4066.86
+"*, *, United States",Female,*/*/2005,$1112.80
+"*, *, United States",Female,*/*/2005,$3112.29
+"*, Lisboa, Portugal",Male,*/*/1996,$6063.49
+"*, Lisboa, Portugal",Male,*/*/1996,$6026.38
+"*, Manitoba, Canada",Male,*/*/*,$3502.45
+"*, Manitoba, Canada",Male,*/*/*,$7376.21
+"*, *, Portugal",Male,*/03/2003,$7421.85
+"*, *, Portugal",Male,*/03/2003,$5214.50
+"*, Île-de-France, France",Male,*/*/2010,$1348.85
+"*, Île-de-France, France",Male,*/*/2010,$3645.69
+"Bengtsfors, Västra Götaland, Sweden",Male,*/*/*,$5726.93
+"Bengtsfors, Västra Götaland, Sweden",Male,*/*/*,$5039.13
+"*, Florida, United States",Male,*/*/1991,$5721.70
+"*, Florida, United States",Male,*/*/1991,$7516.22
+"*, Oaxaca, Mexico",Male,*/*/*,$7170.52
+"*, Oaxaca, Mexico",Male,*/*/*,$959.80
+"*, Braga, Portugal",Male,*/*/1996,$3574.50
+"*, Braga, Portugal",Male,*/*/1996,$1657.74
+"*, Île-de-France, France",Female,*/10/1993,$6649.25
+"*, Île-de-France, France",Female,*/10/1993,$6294.64
+"*, *, Mexico",Male,*/*/1990,$6445.22
+"*, *, Mexico",Male,*/*/1990,$883.43
+"*, *, France",Male,*/*/2004,$3511.27
+"*, *, France",Male,*/*/2004,$4907.54
+"*, *, Portugal",Female,*/11/1998,$6030.61
+"*, *, Portugal",Female,*/11/1998,$2270.42
+"Marseille, Provence-Alpes-Côte d'Azur, France",Female,*/*/*,$5763.40
+"Marseille, Provence-Alpes-Côte d'Azur, France",Female,*/*/*,$1238.66
+"Lyon, Rhône-Alpes, France",Male,*/*/*,$4468.57
+"Lyon, Rhône-Alpes, France",Male,*/*/*,$6223.79
+"*, Ontario, Canada",Female,*/*/*,$4627.92
+"*, Ontario, Canada",Female,*/*/*,$7096.91
+"Stockholm, Stockholm, Sweden",Female,*/*/*,$5412.88
+"Stockholm, Stockholm, Sweden",Female,*/*/*,$2007.00
+"*, Rhône-Alpes, France",Female,*/*/1996,$4630.99
+"*, Rhône-Alpes, France",Female,*/*/1996,$5399.22
+"*, *, Sweden",*,*/03/1982,$7314.87
+"*, *, Sweden",*,*/03/1982,$4407.88
+"*, Ontario, Canada",Male,*/*/2005,$2454.18
+"*, Ontario, Canada",Male,*/*/2005,$1319.03
+"Umeå, Västerbotten, Sweden",Male,*/*/*,$7745.97
+"Umeå, Västerbotten, Sweden",Male,*/*/*,$3109.94
+"*, *, *",Male,*/01/1999,$5736.48
+"*, *, *",Male,*/01/1999,$4941.92
+"*, *, *",Female,*/11/1983,$2803.76
+"*, *, *",Female,*/11/1983,$4776.95
+"*, *, United States",Female,*/*/1981,$5249.08
+"*, *, United States",Female,*/*/1981,$4047.44
+"Fort Lauderdale, Florida, United States",Female,*/*/*,$4324.50
+"Fort Lauderdale, Florida, United States",Female,*/*/*,$4305.72
+"*, Stockholm, Sweden",Female,*/*/1986,$5373.09
+"*, Stockholm, Sweden",Female,*/*/1986,$4664.24
+"*, *, *",Female,11/05/1994,$6285.72
+"*, *, *",Female,11/05/1994,$2874.62
+"*, *, Portugal",*,17/01/1981,$1133.30
+"*, *, Portugal",*,17/01/1981,$7973.93
+"*, *, France",Female,*/*/1997,$5891.93
+"*, *, France",Female,*/*/1997,$5536.87
+"Metz, Lorraine, France",Male,*/*/*,$2458.05
+"Metz, Lorraine, France",Male,*/*/*,$3030.74
+"*, Porto, Portugal",Female,*/*/1990,$6169.95
+"*, Porto, Portugal",Female,*/*/1990,$5823.77
+"*, *, *",Female,06/05/1983,$2934.66
+"*, *, *",Female,06/05/1983,$3229.72
+"*, Veracruz Llave, Mexico",Female,*/*/*,$6340.24
+"*, Veracruz Llave, Mexico",Female,*/*/*,$7103.44
+"*, *, Mexico",Female,*/03/1998,$3769.13
+"*, *, Mexico",Female,*/03/1998,$4460.26
+"*, Île-de-France, France",Male,*/*/*,$5216.68
+"*, Île-de-France, France",Male,*/*/*,$4254.84
+"*, *, *",Male,25/03/1995,$5435.41
+"*, *, *",Male,25/03/1995,$1697.67
+"*, Porto, Portugal",Male,*/*/*,$942.32
+"*, Porto, Portugal",Male,*/*/*,$3863.39
+"*, *, Portugal",Female,*/05/1981,$5847.43
+"*, *, Portugal",Female,*/05/1981,$7847.46
+"*, *, Sweden",Female,*/*/1982,$1322.83
+"*, *, Sweden",Female,*/*/1982,$6563.49
+"*, Setúbal, Portugal",Female,*/*/1998,$2335.56
+"*, Setúbal, Portugal",Female,*/*/1998,$877.91
+"*, *, Portugal",Female,*/*/1997,$3572.00
+"*, *, Portugal",Female,*/*/1997,$7077.49
+"*, *, Sweden",Male,*/*/1999,$4632.50
+"*, *, Sweden",Male,*/*/1999,$5383.93
+"*, *, Portugal",Male,*/12/2003,$7386.55
+"*, *, Portugal",Male,*/12/2003,$4260.82
+"*, Alberta, Canada",*,*/05/2005,$1310.34
+"*, Alberta, Canada",*,*/05/2005,$5514.96
+"*, Pays de la Loire, France",Female,*/*/*,$1350.28
+"*, Pays de la Loire, France",Female,*/*/*,$6148.93
+"*, Aveiro, Portugal",Male,*/*/*,$5979.17
+"*, Aveiro, Portugal",Male,*/*/*,$1247.98
+"*, Rhône-Alpes, France",Female,*/*/1992,$3055.75
+"*, Rhône-Alpes, France",Female,*/*/1992,$5447.93
+"Washington, District of Columbia, United States",Female,*/*/*,$4199.58
+"Washington, District of Columbia, United States",Female,*/*/*,$1715.64
+"*, Bretagne, France",Male,*/*/*,$3827.17
+"*, Bretagne, France",Male,*/*/*,$5323.97
+"*, New York, United States",Female,*/*/*,$5447.94
+"*, New York, United States",Female,*/*/*,$5953.02
+"*, *, Sweden",Male,*/*/1999,$1611.42
+"*, *, Sweden",Male,*/*/1999,$6492.17
+"*, Île-de-France, France",Male,*/*/*,$5004.78
+"*, Île-de-France, France",Male,*/*/*,$4879.99
+"*, Porto, Portugal",Female,*/*/*,$6184.82
+"*, Porto, Portugal",Female,*/*/*,$7202.43
+"Nässjö, Jönköping, Sweden",*,*/*/2010,$6819.26
+"Nässjö, Jönköping, Sweden",*,*/*/2010,$2260.68
+"*, Östergötland, Sweden",Male,*/*/*,$3775.21
+"*, Östergötland, Sweden",Male,*/*/*,$2321.79
+"Épinal, Lorraine, France",Female,*/*/*,$3201.59
+"Épinal, Lorraine, France",Female,*/*/*,$2306.32
+"*, Norrbotten, Sweden",Male,*/*/*,$2746.65
+"*, Norrbotten, Sweden",Male,*/*/*,$2161.64
+"Nice, Provence-Alpes-Côte d'Azur, France",Male,*/*/*,$2208.72
+"Nice, Provence-Alpes-Côte d'Azur, France",Male,*/*/*,$1466.87
+"*, Île-de-France, France",Male,*/*/*,$5521.83
+"*, Île-de-France, France",Male,*/*/*,$5825.49
+"*, *, Portugal",Male,*/*/1987,$5038.59
+"*, *, Portugal",Male,*/*/1987,$1586.61
+"*, *, Portugal",Female,*/07/1988,$6594.48
+"*, *, Portugal",Female,*/07/1988,$4022.26
+"Svalöv, Skåne, Sweden",Female,*/*/*,$1798.82
+"Svalöv, Skåne, Sweden",Female,*/*/*,$7553.46
+"*, *, Canada",Female,*/03/2006,$5372.60
+"*, *, Canada",Female,*/03/2006,$1786.57
+"*, Île-de-France, France",Female,*/*/*,$5410.56
+"*, Île-de-France, France",Female,*/*/*,$1191.96
+"*, California, United States",*,*/*/1990,$2065.92
+"*, California, United States",*,*/*/1990,$1165.10
+"*, Santarém, Portugal",Male,*/*/*,$4575.88
+"*, Santarém, Portugal",Male,*/*/*,$6680.18
+"*, Stockholm, Sweden",*,*/01/1983,$3246.27
+"*, Stockholm, Sweden",*,*/01/1983,$2282.26
+"Lyon, Rhône-Alpes, France",Female,*/*/*,$1160.10
+"Lyon, Rhône-Alpes, France",Female,*/*/*,$6410.80
+"*, *, Mexico",Male,*/*/1991,$5747.87
+"*, *, Mexico",Male,*/*/1991,$3076.92
+"*, *, *",Male,*/07/2004,$4826.17
+"*, *, *",Male,*/07/2004,$3875.41
+"*, Setúbal, Portugal",Female,*/*/*,$6296.35
+"*, Setúbal, Portugal",Female,*/*/*,$7753.83
+"Frankfort, Kentucky, United States",*,*/*/*,$7402.15
+"Frankfort, Kentucky, United States",*,*/*/*,$4178.43
+"*, *, United States",Female,*/08/1989,$2775.31
+"*, *, United States",Female,*/08/1989,$2495.07
+"Lombo Meão, Aveiro, Portugal",Male,*/*/*,$7540.04
+"Lombo Meão, Aveiro, Portugal",Male,*/*/*,$3717.17
+"*, Saskatchewan, Canada",Female,*/*/*,$2409.34
+"*, Saskatchewan, Canada",Female,*/*/*,$5469.92
+"*, Texas, United States",Female,*/*/*,$2926.75
+"*, Texas, United States",Female,*/*/*,$3006.83
+"Niort, Poitou-Charentes, France",Female,*/*/*,$6430.52
+"Niort, Poitou-Charentes, France",Female,*/*/*,$6674.63
+"*, California, United States",Female,*/*/*,$6742.63
+"*, California, United States",Female,*/*/*,$6964.99
+"*, Lisboa, Portugal",Male,*/08/2003,$2866.63
+"*, Lisboa, Portugal",Male,*/08/2003,$7660.68
+"*, *, Canada",Female,*/07/2001,$7801.31
+"*, *, Canada",Female,*/07/2001,$2894.36
+"*, *, Portugal",Male,*/*/1985,$7373.11
+"*, *, Portugal",Male,*/*/1985,$5932.94
+"*, Centre, France",Female,*/*/*,$6424.69
+"*, Centre, France",Female,*/*/*,$1934.60
+"*, *, Portugal",Female,*/*/1995,$4764.60
+"*, *, Portugal",Female,*/*/1995,$2363.38
+"*, *, Mexico",Female,*/*/2008,$4210.02
+"*, *, Mexico",Female,*/*/2008,$7048.06
+"*, *, Mexico",Female,*/*/2009,$2098.58
+"*, *, Mexico",Female,*/*/2009,$2858.06
+"*, Lisboa, Portugal",Female,*/*/*,$5191.05
+"*, Lisboa, Portugal",Female,*/*/*,$5751.78
+"*, British Columbia, Canada",Male,*/*/*,$5677.74
+"*, British Columbia, Canada",Male,*/*/*,$1653.38
+"*, *, Mexico",Male,*/*/1999,$1452.90
+"*, *, Mexico",Male,*/*/1999,$1534.82
+"*, *, Canada",Male,*/10/1986,$5150.96
+"*, *, Canada",Male,*/10/1986,$1318.68
+"*, Florida, United States",Male,*/*/1998,$7355.48
+"*, Florida, United States",Male,*/*/1998,$2212.91
+"Metz, Lorraine, France",Female,*/*/*,$6428.54
+"Metz, Lorraine, France",Female,*/*/*,$2463.52
+"*, Oaxaca, Mexico",Female,*/*/*,$3556.11
+"*, Oaxaca, Mexico",Female,*/*/*,$5563.62
+"*, Basse-Normandie, France",Female,*/*/*,$2422.65
+"*, Basse-Normandie, France",Female,*/*/*,$1280.62
+"*, Texas, United States",Male,*/*/*,$1059.41
+"*, Texas, United States",Male,*/*/*,$4000.92
+"*, *, Mexico",Male,*/*/*,$4077.84
+"*, *, Mexico",Male,*/*/*,$6686.36
+"Sundsvall, Västernorrland, Sweden",Male,*/*/2004,$4631.52
+"Sundsvall, Västernorrland, Sweden",Male,*/*/2004,$6963.88
+"*, *, United States",Female,*/10/1997,$6834.47
+"*, *, United States",Female,*/10/1997,$5428.38
+"*, Languedoc-Roussillon, France",Female,*/08/2003,$3478.88
+"*, Languedoc-Roussillon, France",Female,*/08/2003,$1336.07
+"*, *, Portugal",Male,*/05/1994,$7794.99
+"*, *, Portugal",Male,*/05/1994,$2437.75
+"*, Centre, France",Female,*/*/*,$976.45
+"*, Centre, France",Female,*/*/*,$2902.49
+"*, *, *",Female,*/09/1988,$6144.12
+"*, *, *",Female,*/09/1988,$1426.01
+"*, Pays de la Loire, France",Female,*/*/*,$7274.50
+"*, Pays de la Loire, France",Female,*/*/*,$6432.81
+"*, *, Portugal",Female,*/08/1982,$4052.82
+"*, *, Portugal",Female,*/08/1982,$6369.60
+"*, Québec, Canada",Male,*/*/1984,$6662.13
+"*, Québec, Canada",Male,*/*/1984,$5790.08
+"*, Santarém, Portugal",Female,*/*/*,$7816.46
+"*, Santarém, Portugal",Female,*/*/*,$1653.56
+"Katrineholm, Södermanland, Sweden",*,*/*/*,$7783.26
+"Katrineholm, Södermanland, Sweden",*,*/*/*,$4874.88
+"*, *, *",Male,*/12/1982,$3859.70
+"*, *, *",Male,*/12/1982,$4285.93
+"*, Stockholm, Sweden",Male,*/*/*,$1823.14
+"*, Stockholm, Sweden",Male,*/*/*,$6874.81
+"Stockholm, Stockholm, Sweden",Female,*/*/*,$7290.49
+"Stockholm, Stockholm, Sweden",Female,*/*/*,$6950.84
+"*, Rhône-Alpes, France",Female,*/*/*,$2671.01
+"*, Rhône-Alpes, France",Female,*/*/*,$3747.55
+"*, *, United States",Male,*/*/1993,$3036.16
+"*, *, United States",Male,*/*/1993,$4300.13
+"*, Lisboa, Portugal",Male,*/*/*,$5825.82
+"*, Lisboa, Portugal",Male,*/*/*,$5108.35
+"*, *, *",Female,*/06/2005,$7134.93
+"*, *, *",Female,*/06/2005,$1032.14
+"*, *, United States",Female,*/*/1994,$2781.81
+"*, *, United States",Female,*/*/1994,$3041.78
+"*, *, Portugal",Female,*/*/1988,$4126.56
+"*, *, Portugal",Female,*/*/1988,$4302.66
+"*, Rhône-Alpes, France",*,*/11/1995,$2565.78
+"*, Rhône-Alpes, France",*,*/11/1995,$3770.58
+"Cergy-Pontoise, Île-de-France, France",Female,*/*/*,$3374.55
+"Cergy-Pontoise, Île-de-France, France",Female,*/*/*,$6872.51
+"*, Québec, Canada",Male,*/*/2006,$5871.22
+"*, Québec, Canada",Male,*/*/2006,$3407.45
+"*, Viana do Castelo, Portugal",Male,*/*/*,$4919.65
+"*, Viana do Castelo, Portugal",Male,*/*/*,$6549.93
+"*, *, United States",Male,*/*/1984,$7827.47
+"*, *, United States",Male,*/*/1984,$5910.48
+"*, *, *",Female,*/11/1988,$7091.02
+"*, *, *",Female,*/11/1988,$1348.47
+"*, *, *",Female,14/10/2000,$4938.67
+"*, *, *",Female,14/10/2000,$1126.55
+"*, Jalisco, Mexico",Male,*/*/*,$3989.06
+"*, Jalisco, Mexico",Male,*/*/*,$2587.42
+"Eskilstuna, Södermanland, Sweden",Male,*/*/*,$6721.69
+"Eskilstuna, Södermanland, Sweden",Male,*/*/*,$7175.98
+"*, *, France",Male,*/*/2010,$1824.90
+"*, *, France",Male,*/*/2010,$6336.71
+"*, *, *",Female,*/08/2006,$6185.72
+"*, *, *",Female,*/08/2006,$7606.13
+"*, *, France",Male,*/*/2000,$4510.14
+"*, *, France",Male,*/*/2000,$2851.56
+"*, *, France",Female,*/*/1986,$4783.94
+"*, *, France",Female,*/*/1986,$4680.61
+"Louisville, Kentucky, United States",Female,*/*/*,$4117.83
+"Louisville, Kentucky, United States",Female,*/*/*,$3472.73
+"*, England, United Kingdom",Female,*/*/*,$3561.11
+"*, England, United Kingdom",Female,*/*/*,$7166.43
+"*, *, *",Female,*/10/1989,$5830.80
+"*, *, *",Female,*/10/1989,$7068.52
+"*, Vila Real, Portugal",Male,*/*/*,$7070.82
+"*, Vila Real, Portugal",Male,*/*/*,$2106.68
+"*, *, Sweden",Female,*/*/*,$2809.72
+"*, *, Sweden",Female,*/*/*,$2293.48
+"*, *, Portugal",Male,*/*/1998,$2381.31
+"*, *, Portugal",Male,*/*/1998,$6954.30
 "*, Québec, Canada",Male,*/*/*,$1994.12
-"*, *, France",Female,*/*/*,$5796.92
-"*, *, France",Female,*/*/*,$5843.31
-"*, *, Portugal",Male,*/*/2003,$7660.68
-"*, *, Portugal",Male,*/*/2003,$7779.56
-"*, *, France",Male,*/*/*,$4583.37
-"*, *, France",Male,*/*/*,$1824.90
-"*, *, Canada",Male,*/*/1986,$3502.45
-"*, *, Canada",Male,*/*/1986,$1318.68
-"*, *, *",Male,*/*/1983,$5521.83
-"*, *, *",Male,*/*/1983,$4803.14
-"*, *, *",Male,*/07/2009,$6261.32
-"*, *, *",Male,*/07/2009,$2558.15
-"*, *, *",Male,*/*/1994,$6525.63
-"*, *, *",Male,*/*/1994,$7189.04
-"*, *, France",Male,*/*/*,$3381.06
-"*, *, France",Male,*/*/*,$880.79
-"*, *, *",Female,*/*/*,$1385.97
-"*, *, *",Female,*/*/*,$2060.75
-"*, *, United States",Male,*/*/*,$2735.48
-"*, *, United States",Male,*/*/*,$6488.85
-"*, *, Canada",Female,*/*/*,$3488.65
-"*, *, Canada",Female,*/*/*,$1385.71
-"Souto, Braga, Portugal",*,*/*/*,$3574.50
-"Souto, Braga, Portugal",*,*/*/*,$6105.52
-"*, *, Mexico",Female,*/*/*,$2723.11
-"*, *, Mexico",Female,*/*/*,$3814.74
-"*, *, *",Male,*/*/*,$7749.41
-"*, *, *",Male,*/*/*,$3918.00
-"*, *, *",Male,*/*/*,$1395.82
-"*, *, *",Male,*/*/*,$7147.42
-"*, *, *",Male,*/*/*,$1265.76
-"*, *, *",Male,*/*/*,$3200.25
-"*, *, Sweden",Female,*/*/*,$3420.93
-"*, *, Sweden",Female,*/*/*,$6075.15
-"*, *, *",Female,*/*/1989,$5830.80
-"*, *, *",Female,*/*/1989,$5191.05
+"*, Québec, Canada",Male,*/*/*,$6642.44
+"*, *, United States",Female,*/*/1991,$1329.70
+"*, *, United States",Female,*/*/1991,$1899.31
+"Lidingö, Stockholm, Sweden",Female,*/*/*,$939.87
+"Lidingö, Stockholm, Sweden",Female,*/*/*,$2385.96
+"*, *, Portugal",Female,*/06/1993,$4550.26
+"*, *, Portugal",Female,*/06/1993,$5532.48
+"*, Veracruz Llave, Mexico",Male,*/*/*,$4856.16
+"*, Veracruz Llave, Mexico",Male,*/*/*,$4663.81
+"*, *, Sweden",Male,*/*/*,$3003.76
+"*, *, Sweden",Male,*/*/*,$3472.88
+"*, Västra Götaland, Sweden",Female,*/*/2002,$6869.03
+"*, Västra Götaland, Sweden",Female,*/*/2002,$4382.96
 "*, Västra Götaland, Sweden",Female,*/*/*,$1919.83
-"*, Västra Götaland, Sweden",Female,*/*/*,$5701.55
-"*, *, France",Female,*/*/*,$5198.50
-"*, *, France",Female,*/*/*,$2671.01
-"*, *, *",Female,*/*/*,$7039.05
-"*, *, *",Female,*/*/*,$2837.82
+"*, Västra Götaland, Sweden",Female,*/*/*,$5240.94
+"*, Mexico, Mexico",*,*/12/2001,$7814.46
+"*, Mexico, Mexico",*,*/12/2001,$5229.44
+"*, *, France",Male,*/*/1999,$7900.09
+"*, *, France",Male,*/*/1999,$5116.30
+"*, *, *",Male,*/04/1984,$3349.35
+"*, *, *",Male,*/04/1984,$1558.87
+"*, Västra Götaland, Sweden",Female,*/*/*,$7268.00
+"*, Västra Götaland, Sweden",Female,*/*/*,$6062.26
+"*, Viseu, Portugal",Male,*/*/*,$4357.15
+"*, Viseu, Portugal",Male,*/*/*,$7345.49
+"*, *, *",Female,*/01/2000,$5737.46
+"*, *, *",Female,*/01/2000,$5152.79
+"*, *, *",Female,*/06/1995,$3227.73
+"*, *, *",Female,*/06/1995,$5116.24
+"*, Île-de-France, France",Female,*/12/2006,$5352.76
+"*, Île-de-France, France",Female,*/12/2006,$2561.84
+"*, Braga, Portugal",Female,*/*/*,$7482.17
+"*, Braga, Portugal",Female,*/*/*,$2309.35
+"*, Provence-Alpes-Côte d'Azur, France",Female,*/*/*,$1622.32
+"*, Provence-Alpes-Côte d'Azur, France",Female,*/*/*,$6974.65
+"*, *, France",Female,*/*/1990,$7279.48
+"*, *, France",Female,*/*/1990,$2201.87
+"*, *, Portugal",Female,*/*/2005,$4728.31
+"*, *, Portugal",Female,*/*/2005,$5283.42
+"*, Île-de-France, France",Male,*/05/1985,$6939.54
+"*, Île-de-France, France",Male,*/05/1985,$3752.70
+"Tulsa, Oklahoma, United States",Male,*/*/*,$2729.76
+"Tulsa, Oklahoma, United States",Male,*/*/*,$5946.05
+"*, Québec, Canada",Female,*/*/1997,$3646.85
+"*, Québec, Canada",Female,*/*/1997,$4240.55
+"New York City, New York, United States",Female,*/*/*,$1509.69
+"New York City, New York, United States",Female,*/*/*,$2622.47
+"*, *, Portugal",Female,*/*/2009,$7591.61
+"*, *, Portugal",Female,*/*/2009,$1665.32
+"*, *, *",Female,*/07/2000,$4762.01
+"*, *, *",Female,*/07/2000,$3615.07
+"*, *, France",Male,*/*/1987,$7063.28
+"*, *, France",Male,*/*/1987,$2627.52
+"*, California, United States",Female,*/*/*,$7942.98
+"*, California, United States",Female,*/*/*,$5892.17
+"*, *, Sweden",Male,*/10/2005,$7242.59
+"*, *, Sweden",Male,*/10/2005,$7937.78
+"*, *, *",Male,*/07/2009,$2558.15
+"*, *, *",Male,*/07/2009,$6261.32
+"*, Maryland, United States",Female,*/*/*,$7157.05
+"*, Maryland, United States",Female,*/*/*,$1812.50
+"*, *, Mexico",Female,*/*/1993,$6528.84
+"*, *, Mexico",Female,*/*/1993,$2071.57
+"*, *, United States",Female,*/*/2003,$6243.42
+"*, *, United States",Female,*/*/2003,$1839.10
+"*, Castelo Branco, Portugal",Female,*/*/*,$5772.69
+"*, Castelo Branco, Portugal",Female,*/*/*,$2642.75
+"*, *, Sweden",Male,*/*/1991,$1240.82
+"*, *, Sweden",Male,*/*/1991,$4912.45
+"*, *, Sweden",Male,*/*/2004,$4107.46
+"*, *, Sweden",Male,*/*/2004,$6630.49
+"*, *, *",Male,*/04/1989,$1858.90
+"*, *, *",Male,*/04/1989,$996.76
+"*, Västra Götaland, Sweden",*,*/*/1996,$4862.69
+"*, Västra Götaland, Sweden",*,*/*/1996,$6059.58
+"*, *, Sweden",Male,*/*/1990,$4682.04
+"*, *, Sweden",Male,*/*/1990,$7924.89
+"*, Lorraine, France",Female,*/*/*,$7595.55
+"*, Lorraine, France",Female,*/*/*,$4160.18
+"*, Haute-Normandie, France",*,*/*/2002,$7512.12
+"*, Haute-Normandie, France",*,*/*/2002,$6889.74
+"*, Ilha de São Miguel, Portugal",Male,*/*/*,$5530.59
+"*, Ilha de São Miguel, Portugal",Male,*/*/*,$4964.31
+"*, Ontario, Canada",Female,*/*/*,$1611.63
+"*, Ontario, Canada",Female,*/*/*,$5974.55
+"*, *, Portugal",Female,*/*/1985,$7982.36
+"*, *, Portugal",Female,*/*/1985,$2854.38
+"*, *, *",Male,*/08/2000,$4477.79
+"*, *, *",Male,*/08/2000,$4095.50
+"*, *, Mexico",Female,*/*/1995,$1483.52
+"*, *, Mexico",Female,*/*/1995,$3667.75
+"*, Lisboa, Portugal",Female,*/*/*,$3114.52
+"*, Lisboa, Portugal",Female,*/*/*,$3639.38
+"*, *, United States",*,*/11/1996,$6488.85
+"*, *, United States",*,*/11/1996,$1031.51
+"*, *, *",Female,09/10/1994,$5268.85
+"*, *, *",Female,09/10/1994,$2723.11
+"*, *, United States",Male,*/*/1999,$3911.50
+"*, *, United States",Male,*/*/1999,$1575.72
+"*, *, Portugal",Male,*/*/1982,$3783.40
+"*, *, Portugal",Male,*/*/1982,$6067.37
+"*, *, United States",Female,*/*/2009,$7311.26
+"*, *, United States",Female,*/*/2009,$943.67
+"*, Guanajuato, Mexico",*,*/*/2000,$5966.72
+"*, Guanajuato, Mexico",*,*/*/2000,$7718.68
+"*, Québec, Canada",Male,*/*/*,$7082.80
+"*, Québec, Canada",Male,*/*/*,$4501.34
+"*, Västra Götaland, Sweden",Female,*/*/*,$5126.92
+"*, Västra Götaland, Sweden",Female,*/*/*,$6651.08
+"*, *, Portugal",Female,*/*/2009,$3303.24
+"*, *, Portugal",Female,*/*/2009,$5213.70
+"*, Veracruz Llave, Mexico",Male,*/*/*,$7844.90
+"*, Veracruz Llave, Mexico",Male,*/*/*,$3408.00
+"*, Auvergne, France",Female,*/*/*,$2118.25
+"*, Auvergne, France",Female,*/*/*,$1073.36
+"*, *, United States",Male,*/04/1981,$6749.17
+"*, *, United States",Male,*/04/1981,$5002.09
+"*, *, Portugal",Male,*/*/1983,$4803.14
+"*, *, Portugal",Male,*/*/1983,$7454.96
+"*, Halland, Sweden",Female,*/*/*,$3951.59
+"*, Halland, Sweden",Female,*/*/*,$4576.59
+"*, Viana do Castelo, Portugal",Female,*/*/*,$4466.02
+"*, Viana do Castelo, Portugal",Female,*/*/*,$5788.73
+"*, Veracruz Llave, Mexico",Female,*/*/*,$7741.81
+"*, Veracruz Llave, Mexico",Female,*/*/*,$6888.06
+"*, Vila Real, Portugal",Female,*/*/*,$2060.75
+"*, Vila Real, Portugal",Female,*/*/*,$2029.76
+"*, *, United States",Male,*/10/1981,$5731.07
+"*, *, United States",Male,*/10/1981,$6189.32
+"*, *, *",Female,*/06/1996,$4441.41
+"*, *, *",Female,*/06/1996,$2981.49
+"*, *, *",Male,*/11/1984,$5411.17
+"*, *, *",Male,*/11/1984,$6517.73
+"Bordeaux, Aquitaine, France",*,*/*/*,$1598.58
+"Bordeaux, Aquitaine, France",*,*/*/*,$7665.32
+"*, Porto, Portugal",Female,*/*/*,$6154.03
+"*, Porto, Portugal",Female,*/*/*,$1973.45
+"Älvdalen, Dalarna, Sweden",*,*/*/*,$7201.47
+"Älvdalen, Dalarna, Sweden",*,*/*/*,$1755.24
+"*, Île-de-France, France",Female,*/*/1987,$5511.34
+"*, Île-de-France, France",Female,*/*/1987,$3108.98
+"*, *, Portugal",Female,*/*/2002,$7649.68
+"*, *, Portugal",Female,*/*/2002,$4713.83
+"*, Porto, Portugal",Female,*/*/*,$7795.42
+"*, Porto, Portugal",Female,*/*/*,$3296.00
+"*, Skåne, Sweden",Female,*/*/*,$7475.57
+"*, Skåne, Sweden",Female,*/*/*,$1430.78
+"*, *, Mexico",*,*/06/2004,$7048.51
+"*, *, Mexico",*,*/06/2004,$4531.43
+"*, *, United States",Female,*/03/1997,$4630.14
+"*, *, United States",Female,*/03/1997,$2306.02
+"Oromocto, New Brunswick, Canada",Female,*/*/*,$5396.24
+"Oromocto, New Brunswick, Canada",Female,*/*/*,$1403.76
+"*, Provence-Alpes-Côte d'Azur, France",Male,*/*/*,$1555.57
+"*, Provence-Alpes-Côte d'Azur, France",Male,*/*/*,$7199.46
+"*, *, *",Female,*/08/1999,$6940.06
+"*, *, *",Female,*/08/1999,$4924.11
+"*, Braga, Portugal",Male,*/*/*,$2558.30
+"*, Braga, Portugal",Male,*/*/*,$2867.51
+"*, Centre, France",Male,*/*/*,$5620.85
+"*, Centre, France",Male,*/*/*,$5485.14
+"Anmore, British Columbia, Canada",Female,*/*/*,$1647.59
+"Anmore, British Columbia, Canada",Female,*/*/*,$7760.58
+"*, England, United Kingdom",*,*/*/1983,$1569.15
+"*, England, United Kingdom",*,*/*/1983,$1127.28
+"*, *, Portugal",Male,*/*/1981,$4902.14
+"*, *, Portugal",Male,*/*/1981,$1305.29
+"*, Västmanland, Sweden",Male,*/*/*,$2468.51
+"*, Västmanland, Sweden",Male,*/*/*,$1846.26
+"*, Languedoc-Roussillon, France",Female,*/*/*,$6325.50
+"*, Languedoc-Roussillon, France",Female,*/*/*,$1958.82
+"*, Västra Götaland, Sweden",Male,*/*/2001,$5977.38
+"*, Västra Götaland, Sweden",Male,*/*/2001,$6578.25
+"Dallas, Texas, United States",Male,*/*/*,$3427.50
+"Dallas, Texas, United States",Male,*/*/*,$3306.51
+"*, *, United States",Male,*/*/2007,$2476.57
+"*, *, United States",Male,*/*/2007,$3435.80
+"*, Portalegre, Portugal",Female,*/*/*,$1575.77
+"*, Portalegre, Portugal",Female,*/*/*,$4772.43
+"*, Québec, Canada",Female,*/*/1982,$3027.02
+"*, Québec, Canada",Female,*/*/1982,$5074.78
+"Charleston, West Virginia, United States",Female,*/*/*,$5750.62
+"Charleston, West Virginia, United States",Female,*/*/*,$1288.62
+"*, Île-de-France, France",Female,*/*/*,$7410.13
+"*, Île-de-France, France",Female,*/*/*,$2236.23
+"*, Newfoundland and Labrador, Canada",Female,*/*/*,$7913.17
+"*, Newfoundland and Labrador, Canada",Female,*/*/*,$2100.45
+"*, *, *",Female,*/09/2000,$5087.05
+"*, *, *",Female,*/09/2000,$1676.91
+"*, *, United States",Female,*/*/*,$3031.23
+"*, *, United States",Female,*/*/*,$6968.33
+"*, Île-de-France, France",*,*/09/1993,$4480.55
+"*, Île-de-France, France",*,*/09/1993,$1022.20
+"*, Faro, Portugal",Female,*/*/*,$3082.24
+"*, Faro, Portugal",Female,*/*/*,$5189.45
+"*, Porto, Portugal",Female,*/*/*,$7130.79
+"*, Porto, Portugal",Female,*/*/*,$1684.26
+"*, Île-de-France, France",Female,*/*/*,$1246.34
+"*, Île-de-France, France",Female,*/*/*,$3525.88
+"*, *, *",Male,*/03/2008,$1403.09
+"*, *, *",Male,*/03/2008,$7816.91
+"*, Porto, Portugal",Female,*/*/*,$1708.14
+"*, Porto, Portugal",Female,*/*/*,$4930.40
+"Hallsberg, Örebro, Sweden",Female,*/*/*,$3625.99
+"Hallsberg, Örebro, Sweden",Female,*/*/*,$6173.77
+"*, Florida, United States",Female,*/*/*,$1668.43
+"*, Florida, United States",Female,*/*/*,$3591.60
+"*, Braga, Portugal",Male,*/*/*,$4663.87
+"*, Braga, Portugal",Male,*/*/*,$2261.44
+"*, *, Canada",Male,*/*/2005,$3918.00
+"*, *, Canada",Male,*/*/2005,$7600.54
+"*, *, France",Female,*/*/1981,$4796.47
+"*, *, France",Female,*/*/1981,$1353.19
+"*, Castelo Branco, Portugal",Female,*/*/*,$6545.90
+"*, Castelo Branco, Portugal",Female,*/*/*,$5730.25
+"*, Aquitaine, France",Male,*/*/*,$7689.77
+"*, Aquitaine, France",Male,*/*/*,$1841.41
+"*, *, Sweden",Male,*/*/1988,$1574.30
+"*, *, Sweden",Male,*/*/1988,$962.08
+"*, *, *",Male,*/02/1984,$1742.83
+"*, *, *",Male,*/02/1984,$7303.77
+"*, *, *",Male,*/07/2002,$1390.00
+"*, *, *",Male,*/07/2002,$3635.14
+"*, *, Sweden",Male,*/*/*,$5443.77
+"*, *, Sweden",Male,*/*/*,$5745.78
+"*, *, United States",Male,*/*/1991,$7248.09
+"*, *, United States",Male,*/*/1991,$2891.78
+"*, Texas, United States",Male,*/*/*,$1006.79
+"*, Texas, United States",Male,*/*/*,$7638.46
+"*, *, United States",Male,*/*/*,$6553.93
+"*, *, United States",Male,*/*/*,$5307.88
+"Santulhão, Bragança, Portugal",Male,*/*/*,$7917.34
+"Santulhão, Bragança, Portugal",Male,*/*/*,$6043.66
+"*, Alberta, Canada",Male,*/*/*,$3609.17
+"*, Alberta, Canada",Male,*/*/*,$4675.13
+"*, *, France",*,*/11/1998,$7201.06
+"*, *, France",*,*/11/1998,$1191.22
+"*, *, France",Female,*/*/2002,$5843.31
+"*, *, France",Female,*/*/2002,$1032.68
+"*, Porto, Portugal",Female,*/*/*,$3725.73
+"*, Porto, Portugal",Female,*/*/*,$5866.61
+"Erie, Pennsylvania, United States",Female,*/*/*,$3334.96
+"Erie, Pennsylvania, United States",Female,*/*/*,$3201.71
+"*, Saskatchewan, Canada",Female,*/*/*,$7782.63
+"*, Saskatchewan, Canada",Female,*/*/*,$7039.05
+"*, Porto, Portugal",Male,*/*/*,$4590.54
+"*, Porto, Portugal",Male,*/*/*,$2932.96
+"*, *, United States",Male,*/*/2008,$6841.99
+"*, *, United States",Male,*/*/2008,$5236.49
+"Kungsbacka, Halland, Sweden",*,*/*/*,$2587.45
+"Kungsbacka, Halland, Sweden",*,*/*/*,$4615.15
+"*, *, Canada",Female,*/*/2001,$3909.93
+"*, *, Canada",Female,*/*/2001,$6431.42
+"*, *, Sweden",Female,*/11/1981,$4767.88
+"*, *, Sweden",Female,*/11/1981,$7035.04
+"*, *, France",Male,*/02/1989,$5700.29
+"*, *, France",Male,*/02/1989,$1186.54
+"*, *, United States",Female,*/*/*,$7589.64
+"*, *, United States",Female,*/*/*,$7983.68
+"*, *, Portugal",Female,*/05/1983,$7373.73
+"*, *, Portugal",Female,*/05/1983,$7453.73
+"*, *, Portugal",Female,*/*/1994,$7467.66
+"*, *, Portugal",Female,*/*/1994,$5252.25
+"*, Braga, Portugal",Female,*/*/*,$7659.54
+"*, Braga, Portugal",Female,*/*/*,$5848.86
+"*, *, France",Male,*/10/1989,$1655.67
+"*, *, France",Male,*/10/1989,$5459.27
+"*, Rhône-Alpes, France",Female,*/*/*,$5503.12
+"*, Rhône-Alpes, France",Female,*/*/*,$1355.25
+"*, *, *",Female,*/06/1985,$2411.36
+"*, *, *",Female,*/06/1985,$3014.90
+"*, *, United States",Male,*/*/*,$1342.37
+"*, *, United States",Male,*/*/*,$2843.99
+"*, *, Portugal",Female,*/*/1981,$7548.51
+"*, *, Portugal",Female,*/*/1981,$4450.49
+"*, Arizona, United States",Female,*/*/*,$7511.52
+"*, Arizona, United States",Female,*/*/*,$7947.82
+"*, Västra Götaland, Sweden",Male,*/*/*,$3840.66
+"*, Västra Götaland, Sweden",Male,*/*/*,$6881.36
+"*, *, Canada",Male,*/*/1998,$4067.61
+"*, *, Canada",Male,*/*/1998,$4094.94
+"*, Porto, Portugal",Female,*/*/*,$4320.80
+"*, Porto, Portugal",Female,*/*/*,$6508.41
+"*, Île-de-France, France",*,*/*/1989,$6728.72
+"*, Île-de-France, France",*,*/*/1989,$4959.20
+"*, Guerrero, Mexico",Female,*/*/*,$3814.74
+"*, Guerrero, Mexico",Female,*/*/*,$7525.73
+"*, California, United States",Female,*/*/*,$2460.19
+"*, California, United States",Female,*/*/*,$5057.48
+"*, Limousin, France",Male,*/*/*,$3988.74
+"*, Limousin, France",Male,*/*/*,$1399.34
+"*, *, *",Male,*/01/2010,$7749.41
+"*, *, *",Male,*/01/2010,$2617.72
+"*, *, United States",Female,*/*/2008,$1320.94
+"*, *, United States",Female,*/*/2008,$4329.22
+"*, Provence-Alpes-Côte d'Azur, France",Female,*/*/1984,$6860.11
+"*, Provence-Alpes-Côte d'Azur, France",Female,*/*/1984,$5814.99
+"*, *, France",Female,*/08/2005,$2471.10
+"*, *, France",Female,*/08/2005,$4518.41
+"*, Saskatchewan, Canada",Male,*/*/*,$4511.71
+"*, Saskatchewan, Canada",Male,*/*/*,$3401.73
+"Cache Creek, British Columbia, Canada",Male,*/*/*,$3585.21
+"Cache Creek, British Columbia, Canada",Male,*/*/*,$1405.83
+"*, Bretagne, France",Male,*/*/*,$6856.56
+"*, Bretagne, France",Male,*/*/*,$4197.51
+"*, *, France",Female,*/*/2007,$7634.03
+"*, *, France",Female,*/*/2007,$5163.00
+"*, *, Sweden",Female,*/*/*,$3420.93
+"*, *, Sweden",Female,*/*/*,$1916.17
+"*, Stockholm, Sweden",Female,*/*/*,$7278.18
+"*, Stockholm, Sweden",Female,*/*/*,$1145.67
+"*, Ontario, Canada",Female,*/*/*,$2465.50
+"*, Ontario, Canada",Female,*/*/*,$7202.18
+"Chicago, Illinois, United States",*,*/*/*,$3567.45
+"Chicago, Illinois, United States",*,*/*/*,$7530.19
+"San Francisco, California, United States",Male,*/*/*,$1900.04
+"San Francisco, California, United States",Male,*/*/*,$4979.70
+"Stockholm, Stockholm, Sweden",Female,*/*/*,$6416.83
+"Stockholm, Stockholm, Sweden",Female,*/*/*,$3358.30
+"*, *, *",Female,*/*/1981,$1887.39
+"*, *, *",Female,*/*/1981,$6657.46
+"*, Vila Real, Portugal",Male,*/*/*,$4370.17
+"*, Vila Real, Portugal",Male,*/*/*,$5746.59
+"*, Skåne, Sweden",Male,*/*/*,$2969.04
+"*, Skåne, Sweden",Male,*/*/*,$1909.73
+"*, *, Mexico",Male,*/*/*,$2280.82
+"*, *, Mexico",Male,*/*/*,$3389.21
+"*, Västra Götaland, Sweden",Male,*/*/*,$3218.09
+"*, Västra Götaland, Sweden",Male,*/*/*,$2946.37
+"*, *, United States",Female,*/10/1982,$3358.51
+"*, *, United States",Female,*/10/1982,$1641.08
+"Vales, Viseu, Portugal",*,*/*/*,$6056.46
+"Vales, Viseu, Portugal",*,*/*/*,$1367.51
+"*, Languedoc-Roussillon, France",Female,*/*/*,$1366.21
+"*, Languedoc-Roussillon, France",Female,*/*/*,$3849.89
+"*, Rhône-Alpes, France",Female,*/*/*,$5368.06
+"*, Rhône-Alpes, France",Female,*/*/*,$7382.35
+"*, *, Portugal",Female,*/*/*,$6191.96
+"*, *, Portugal",Female,*/*/*,$2137.01
+"*, *, Canada",Male,*/*/*,$7689.46
+"*, *, Canada",Male,*/*/*,$5453.13
+"*, Alberta, Canada",Male,*/*/*,$991.46
+"*, Alberta, Canada",Male,*/*/*,$5387.93
+"*, Ohio, United States",*,*/*/*,$3911.57
+"*, Ohio, United States",*,*/*/*,$3562.87
+"*, *, United States",Male,*/*/*,$2735.48
+"*, *, United States",Male,*/*/*,$3362.11
+"*, *, Sweden",Female,*/*/*,$7155.79
+"*, *, Sweden",Female,*/*/*,$2943.14
+"*, *, Sweden",Female,*/*/*,$2385.94
+"*, *, Sweden",Female,*/*/*,$6509.58
+"*, *, *",Female,*/05/2007,$5663.67
+"*, *, *",Female,*/05/2007,$4348.19
+"*, *, Canada",Female,*/*/1998,$979.70
+"*, *, Canada",Female,*/*/1998,$7697.11
+"*, *, France",Male,*/*/2001,$3381.06
+"*, *, France",Male,*/*/2001,$3316.55
+"Göteborg, Västra Götaland, Sweden",*,*/*/*,$3689.16
+"Göteborg, Västra Götaland, Sweden",*,*/*/*,$6190.47
+"*, *, *",Male,17/10/1987,$1188.11
+"*, *, *",Male,17/10/1987,$7817.66
+"*, Michigan, United States",Male,*/*/*,$3581.83
+"*, Michigan, United States",Male,*/*/*,$1175.28
+"*, *, *",Male,*/09/2003,$6760.76
+"*, *, *",Male,*/09/2003,$1622.77
+"*, *, France",Male,*/*/*,$5778.85
+"*, *, France",Male,*/*/*,$4105.04
+"*, Porto, Portugal",Male,*/*/*,$5264.43
+"*, Porto, Portugal",Male,*/*/*,$4472.72
+"*, Île-de-France, France",*,*/*/2005,$4725.00
+"*, Île-de-France, France",*,*/*/2005,$1174.30
+"*, Västra Götaland, Sweden",Male,*/*/1991,$7885.38
+"*, Västra Götaland, Sweden",Male,*/*/1991,$4930.16
+"*, Stockholm, Sweden",Female,*/*/*,$1609.66
+"*, Stockholm, Sweden",Female,*/*/*,$7701.36
+"*, Île-de-France, France",Female,*/*/*,$4544.05
+"*, Île-de-France, France",Female,*/*/*,$1467.94
+"*, Jönköping, Sweden",Female,*/*/1985,$4733.60
+"*, Jönköping, Sweden",Female,*/*/1985,$5238.49
+"*, *, *",Female,*/*/1991,$4371.91
+"*, *, *",Female,*/*/1991,$2772.86
+"*, *, *",Female,*/02/1996,$4970.32
+"*, *, *",Female,*/02/1996,$7370.54
+"*, *, Portugal",Male,*/*/1982,$962.88
+"*, *, Portugal",Male,*/*/1982,$7552.80
+"*, *, Canada",Female,*/*/*,$1939.10
+"*, *, Canada",Female,*/*/*,$5727.15
+"*, Basse-Normandie, France",Female,*/*/*,$6749.04
+"*, Basse-Normandie, France",Female,*/*/*,$5772.96
+"*, *, *",Male,*/01/1988,$3621.99
+"*, *, *",Male,*/01/1988,$3812.30
+"*, *, Sweden",Female,*/*/*,$2172.78
+"*, *, Sweden",Female,*/*/*,$4250.40
+"*, Chiapas, Mexico",Female,*/*/*,$6825.59
+"*, Chiapas, Mexico",Female,*/*/*,$7018.06
+"*, Michoacan De Ocampo, Mexico",*,*/*/*,$2344.10
+"*, Michoacan De Ocampo, Mexico",*,*/*/*,$6230.34
+"*, Ontario, Canada",Male,*/*/*,$7565.57
+"*, Ontario, Canada",Male,*/*/*,$6983.95
+"*, Stockholm, Sweden",Male,*/*/*,$4176.07
+"*, Stockholm, Sweden",Male,*/*/*,$7468.47
+"*, Aveiro, Portugal",Female,*/*/*,$3721.36
+"*, Aveiro, Portugal",Female,*/*/*,$6310.65
+"*, Île-de-France, France",Male,*/*/*,$3945.26
+"*, Île-de-France, France",Male,*/*/*,$6691.81
+"*, *, France",Female,*/*/*,$5796.92
+"*, *, France",Female,*/*/*,$5080.95
+"*, Florida, United States",Female,*/*/*,$5471.10
+"*, Florida, United States",Female,*/*/*,$5196.14
+"*, Texas, United States",Female,*/*/*,$5896.63
+"*, Texas, United States",Female,*/*/*,$7700.50
+"*, *, United States",Male,*/*/*,$1966.51
+"*, *, United States",Male,*/*/*,$2946.19
+"*, *, Mexico",Male,*/*/*,$825.82
+"*, *, Mexico",Male,*/*/*,$1395.82
+"*, Alsace, France",Male,*/*/*,$6749.86
+"*, Alsace, France",Male,*/*/*,$4263.66
+"*, *, United States",Male,*/*/*,$4260.81
+"*, *, United States",Male,*/*/*,$5130.58
+"*, *, France",Male,*/*/1981,$7680.45
+"*, *, France",Male,*/*/1981,$6987.28
+"*, *, France",Male,*/*/*,$6363.88
+"*, *, France",Male,*/*/*,$4354.51
+"*, *, Sweden",Female,*/*/1997,$4718.05
+"*, *, Sweden",Female,*/*/1997,$1624.94
+"*, *, Mexico",Male,*/*/*,$7646.16
+"*, *, Mexico",Male,*/*/*,$7517.14
+"*, *, Portugal",Male,*/*/*,$6187.48
+"*, *, Portugal",Male,*/*/*,$2666.96
+"*, *, United States",Female,*/*/*,$1041.43
+"*, *, United States",Female,*/*/*,$6285.14
+"*, *, *",Female,*/*/*,$4953.85
+"*, *, *",Female,*/*/*,$4550.42
+"*, *, *",Male,*/*/2007,$2942.07
+"*, *, *",Male,*/*/2007,$7890.52
+"*, *, Portugal",Male,*/*/1994,$2533.59
+"*, *, Portugal",Male,*/*/1994,$3868.21
+"*, *, Portugal",Female,*/*/*,$2533.07
+"*, *, Portugal",Female,*/*/*,$1411.11
+"*, *, Mexico",Female,*/*/*,$2837.82
+"*, *, Mexico",Female,*/*/*,$3737.37
+"*, *, Sweden",Female,*/*/1998,$5338.30
+"*, *, Sweden",Female,*/*/1998,$6075.15
+"*, *, *",Female,*/*/*,$4942.31
+"*, *, *",Female,*/*/*,$1385.97
+"*, *, Portugal",Male,*/*/*,$2566.78
+"*, *, Portugal",Male,*/*/*,$4468.82
+"*, Québec, Canada",Male,*/*/*,$6296.75
+"*, Québec, Canada",Male,*/*/*,$7753.78
+"*, *, *",Male,*/*/*,$3209.90
+"*, *, *",Male,*/*/*,$1876.11
+"*, *, *",Female,*/*/*,$3567.38
+"*, *, *",Female,*/*/*,$3873.74
+"*, *, *",Male,*/*/*,$1967.98
+"*, *, *",Male,*/*/*,$2562.92
+"*, *, *",Male,*/*/*,$1618.95
+"*, *, *",Male,*/*/*,$6525.63
